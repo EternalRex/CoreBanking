@@ -1,0 +1,208 @@
+syntax = "proto3";
+
+package create;
+
+option csharp_namespace = "ClientService";
+
+import "google/protobuf/timestamp.proto";
+
+service ClientServicesProto {
+  rpc AddClient (CreateClientRequest) returns (CreateClientResponse);
+}
+
+message CreateClientRequest {
+   ClientDetails ClientDetails = 1;
+   repeated BusinessesDetails BusinessesDetails = 2;
+   repeated SpouseDetails SpouseDetails = 3;
+   repeated DependantDetails DependantDetails = 4;
+}
+
+
+/*Person Entity Data*/
+message PersonDetails {
+  SalutationEnum Salutation = 1;
+  string FirstName = 2;
+  string MiddleName = 3;
+  string LastName = 4;
+  string Suffix = 5;
+  GenderEnum Gender = 6;
+  int32 Age = 7;
+  google.protobuf.Timestamp DateOfBirth = 8;
+  string PlaceOfBirth = 9;
+  MaritalStatusEnum MaritalStatus = 10;
+  string MotherMaidenName = 11;
+  string TaxPayerIdentificationNumber = 12;
+  int32 ChildrenInSchool = 13;
+  int32 ChildrenBelow21 = 14;
+  int32 DependantCount = 15;
+  AddressDetails PersonAddress = 16;
+  ContactInformation ContactDetails = 17;
+  string ReligionId = 18;
+  string EducationalAttainmentId = 19;
+  string NationalityId = 20;
+}
+
+/*Client Entity Data*/
+message ClientDetails {
+  string PrimaryIdentificationTypeId = 1;
+  string PrimaryIdentificationTypeNumber = 2;
+  google.protobuf.Timestamp PrimaryIdentificationTypeExpiration = 3;
+  string EconomicActivityId = 4;
+  string MembershipStatusId = 5;
+  AdditionalInformationDetails AdditionalInformation = 6;
+  string BranchId = 7;
+  string CenterId = 8;
+  string BranchOfficerId = 9;
+  string ClientSourceId = 10;
+  string OccupationId = 11;
+  string ReferenceId = 12;
+  string MembershipTypeId = 13;
+  PersonDetails PersonDetails = 14;
+  repeated DocumentDetails DocumentDetails = 15;
+}
+
+/*Business Entity Data*/
+message BusinessesDetails{
+  string Name = 1;            
+  BusinessAddressDetails BusinessAddress = 2;
+  string MobileNumber  = 3;
+  string LandLineNumber = 4;
+  string BusinessSectorId = 5;
+  BusinessIncomeDetails BusinessIncome = 6;
+  sfixed64 ExistingCapital = 7;
+  sfixed64 TotalAssets = 8;
+  int32 FoundingYear = 9;
+  string TaxIdentificationNumber = 10;
+  string BusinessPermitNumber = 11;
+  int32 NumberOfStaff = 12;
+  bool IsOperating = 13;
+  MicroFinanceEngagementDetails MicroFinanceEngagement = 14;
+  string EconomicActivityId = 15;
+}
+
+/*Spouse Entity Data*/
+message SpouseDetails{
+  string BusinessSectorId = 1;
+  string OccupationId = 2;
+  sfixed64 MonthlyIncome = 3;
+  string EmployerName = 4;
+  PersonDetails PersonDetails = 14;
+  repeated DocumentDetails DocumentDetails = 15;
+}
+
+
+/*Dependant Entity Data*/
+message DependantDetails{
+  string BusinessSectorId = 1;
+  PersonDetails PersonDetails = 14;
+  repeated DocumentDetails DocumentDetails = 15;
+}
+
+/*Document Details Data*/
+message DocumentDetails{
+  string FileName = 1;
+  string FileExtenstion = 2;
+  FileType FileType = 3;
+  string FilePath = 4;
+  bytes ActualFile = 5;
+}
+
+/*Value Objects*/
+message AddressDetails {
+    string HouseNumber1 = 1;
+    string Street1 = 2;
+    string Barangay1 = 3;
+    string City1 = 4;
+    string Province1 = 5;
+    string Region1 = 6;
+    string Country1 = 7;
+    string ZipCode1 = 8;
+    string Latitude1 = 9;
+    string Longitude1 = 10;
+    string HomeOwnership1 = 11;
+    string HouseNumber2 = 12;
+    string Street2 = 13;
+    string Barangay2 = 14;
+    string City2 = 15;
+    string Province2 = 16;
+    string Region2 = 17;
+    string Country2 = 18;
+    string ZipCode2 = 19;
+    string Latitude2 = 20;
+    string Longitude2 = 21;
+    string HomeOwnership2 = 22;
+}
+
+
+
+message ContactInformation {
+  string MobileNumber = 1;
+  string EmailAddress = 2;
+  string ContactPersonName = 3;
+  string ContactPersonMobileNumber = 4;
+}
+
+
+message AdditionalInformationDetails {
+  string Bank = 1;
+  string BankAccountNumber = 2;
+  string Notes = 4;
+}
+
+message BusinessAddressDetails {
+  string HouseNumber1 = 1;
+  string Street1 = 2;
+  string City1 = 3;
+  string Region1 = 4;
+  string Province1 = 5;
+  string Barangay1 = 6; 
+  string Country1 = 7;
+  string ZipCode1 = 8;
+  string Latitude1 = 9;
+  string Longitude1 = 10;
+}
+
+
+message BusinessIncomeDetails{
+  sfixed64 WeeklyIncome = 1;
+  sfixed64 MonthlyIncome = 2;
+  sfixed64 AnnualGrossIncome = 3;
+}
+
+message MicroFinanceEngagementDetails{
+  string MFIEngagement = 1;
+  string MFIEngagementName = 2;
+  int32 YearsOfMFIEngagementMembership = 3;
+}
+
+/*Enums*/
+enum MaritalStatusEnum {
+  Anulled = 0;
+  Livein = 1;
+  Married = 2;
+  Separated = 3;
+  Single = 4;
+  Widowed = 5;
+}
+
+
+enum GenderEnum {
+  Male = 0;
+  Female = 1;
+}
+
+enum SalutationEnum{
+  Mr = 0;
+  Mrs = 1;
+  Ms = 2; 
+}
+
+enum FileType {
+  Signature = 0;
+  ProfilePicture = 1;
+}
+
+message CreateClientResponse {
+  string Result = 1;
+}
+

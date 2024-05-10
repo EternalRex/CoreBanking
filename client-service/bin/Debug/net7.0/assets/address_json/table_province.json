@@ -1,0 +1,412 @@
+[
+  {
+    "ProvinceCode": 1,
+    "RegionCode": 1,
+    "ProvinceName": "Metro Manila"
+  },
+  {
+    "ProvinceCode": 2,
+    "RegionCode": 3,
+    "ProvinceName": "Ilocos Norte"
+  },
+  {
+    "ProvinceCode": 3,
+    "RegionCode": 3,
+    "ProvinceName": "Ilocos Sur"
+  },
+  {
+    "ProvinceCode": 4,
+    "RegionCode": 3,
+    "ProvinceName": "La Union"
+  },
+  {
+    "ProvinceCode": 5,
+    "RegionCode": 3,
+    "ProvinceName": "Pangasinan"
+  },
+  {
+    "ProvinceCode": 6,
+    "RegionCode": 4,
+    "ProvinceName": "Batanes"
+  },
+  {
+    "ProvinceCode": 7,
+    "RegionCode": 4,
+    "ProvinceName": "Cagayan"
+  },
+  {
+    "ProvinceCode": 8,
+    "RegionCode": 4,
+    "ProvinceName": "Isabela"
+  },
+  {
+    "ProvinceCode": 9,
+    "RegionCode": 4,
+    "ProvinceName": "Nueva Vizcaya"
+  },
+  {
+    "ProvinceCode": 10,
+    "RegionCode": 4,
+    "ProvinceName": "Quirino"
+  },
+  {
+    "ProvinceCode": 11,
+    "RegionCode": 5,
+    "ProvinceName": "Bataan"
+  },
+  {
+    "ProvinceCode": 12,
+    "RegionCode": 5,
+    "ProvinceName": "Bulacan"
+  },
+  {
+    "ProvinceCode": 13,
+    "RegionCode": 5,
+    "ProvinceName": "Nueva Ecija"
+  },
+  {
+    "ProvinceCode": 14,
+    "RegionCode": 5,
+    "ProvinceName": "Pampanga"
+  },
+  {
+    "ProvinceCode": 15,
+    "RegionCode": 5,
+    "ProvinceName": "Tarlac"
+  },
+  {
+    "ProvinceCode": 16,
+    "RegionCode": 5,
+    "ProvinceName": "Zambales"
+  },
+  {
+    "ProvinceCode": 17,
+    "RegionCode": 5,
+    "ProvinceName": "Aurora"
+  },
+  {
+    "ProvinceCode": 18,
+    "RegionCode": 6,
+    "ProvinceName": "Batangas"
+  },
+  {
+    "ProvinceCode": 19,
+    "RegionCode": 6,
+    "ProvinceName": "Cavite"
+  },
+  {
+    "ProvinceCode": 20,
+    "RegionCode": 6,
+    "ProvinceName": "Laguna"
+  },
+  {
+    "ProvinceCode": 21,
+    "RegionCode": 6,
+    "ProvinceName": "Quezon"
+  },
+  {
+    "ProvinceCode": 22,
+    "RegionCode": 6,
+    "ProvinceName": "Rizal"
+  },
+  {
+    "ProvinceCode": 23,
+    "RegionCode": 7,
+    "ProvinceName": "Marinduque"
+  },
+  {
+    "ProvinceCode": 24,
+    "RegionCode": 7,
+    "ProvinceName": "Occidental Mindoro"
+  },
+  {
+    "ProvinceCode": 25,
+    "RegionCode": 7,
+    "ProvinceName": "Oriental Mindoro"
+  },
+  {
+    "ProvinceCode": 26,
+    "RegionCode": 7,
+    "ProvinceName": "Palawan"
+  },
+  {
+    "ProvinceCode": 27,
+    "RegionCode": 7,
+    "ProvinceName": "Romblon"
+  },
+  {
+    "ProvinceCode": 28,
+    "RegionCode": 8,
+    "ProvinceName": "Albay"
+  },
+  {
+    "ProvinceCode": 29,
+    "RegionCode": 8,
+    "ProvinceName": "Camarines Norte"
+  },
+  {
+    "ProvinceCode": 30,
+    "RegionCode": 8,
+    "ProvinceName": "Camarines Sur"
+  },
+  {
+    "ProvinceCode": 31,
+    "RegionCode": 8,
+    "ProvinceName": "Catanduanes"
+  },
+  {
+    "ProvinceCode": 32,
+    "RegionCode": 8,
+    "ProvinceName": "Masbate"
+  },
+  {
+    "ProvinceCode": 33,
+    "RegionCode": 8,
+    "ProvinceName": "Sorsogon"
+  },
+  {
+    "ProvinceCode": 34,
+    "RegionCode": 9,
+    "ProvinceName": "Aklan"
+  },
+  {
+    "ProvinceCode": 35,
+    "RegionCode": 9,
+    "ProvinceName": "Antique"
+  },
+  {
+    "ProvinceCode": 36,
+    "RegionCode": 9,
+    "ProvinceName": "Capiz"
+  },
+  {
+    "ProvinceCode": 37,
+    "RegionCode": 9,
+    "ProvinceName": "Iloilo"
+  },
+  {
+    "ProvinceCode": 38,
+    "RegionCode": 9,
+    "ProvinceName": "Negros Occidental"
+  },
+  {
+    "ProvinceCode": 39,
+    "RegionCode": 9,
+    "ProvinceName": "Guimaras"
+  },
+  {
+    "ProvinceCode": 40,
+    "RegionCode": 10,
+    "ProvinceName": "Bohol"
+  },
+  {
+    "ProvinceCode": 41,
+    "RegionCode": 10,
+    "ProvinceName": "Cebu"
+  },
+  {
+    "ProvinceCode": 42,
+    "RegionCode": 10,
+    "ProvinceName": "Negros Oriental"
+  },
+  {
+    "ProvinceCode": 43,
+    "RegionCode": 10,
+    "ProvinceName": "Siquijor"
+  },
+  {
+    "ProvinceCode": 44,
+    "RegionCode": 11,
+    "ProvinceName": "Eastern Samar"
+  },
+  {
+    "ProvinceCode": 45,
+    "RegionCode": 11,
+    "ProvinceName": "Leyte"
+  },
+  {
+    "ProvinceCode": 46,
+    "RegionCode": 11,
+    "ProvinceName": "Northern Samar"
+  },
+  {
+    "ProvinceCode": 47,
+    "RegionCode": 11,
+    "ProvinceName": "Samar"
+  },
+  {
+    "ProvinceCode": 48,
+    "RegionCode": 11,
+    "ProvinceName": "Southern Leyte"
+  },
+  {
+    "ProvinceCode": 49,
+    "RegionCode": 11,
+    "ProvinceName": "Biliran"
+  },
+  {
+    "ProvinceCode": 50,
+    "RegionCode": 12,
+    "ProvinceName": "Zamboanga del Norte"
+  },
+  {
+    "ProvinceCode": 51,
+    "RegionCode": 12,
+    "ProvinceName": "Zamboanga del Sur"
+  },
+  {
+    "ProvinceCode": 52,
+    "RegionCode": 12,
+    "ProvinceName": "Zamboanga Sibugay"
+  },
+  {
+    "ProvinceCode": 53,
+    "RegionCode": 13,
+    "ProvinceName": "Bukidnon"
+  },
+  {
+    "ProvinceCode": 54,
+    "RegionCode": 13,
+    "ProvinceName": "Camiguin"
+  },
+  {
+    "ProvinceCode": 55,
+    "RegionCode": 13,
+    "ProvinceName": "Lanao del Norte"
+  },
+  {
+    "ProvinceCode": 56,
+    "RegionCode": 13,
+    "ProvinceName": "Misamis Occidental"
+  },
+  {
+    "ProvinceCode": 57,
+    "RegionCode": 13,
+    "ProvinceName": "Misamis Oriental"
+  },
+  {
+    "ProvinceCode": 58,
+    "RegionCode": 14,
+    "ProvinceName": "Davao del Norte"
+  },
+  {
+    "ProvinceCode": 59,
+    "RegionCode": 14,
+    "ProvinceName": "Davao del Sur"
+  },
+  {
+    "ProvinceCode": 60,
+    "RegionCode": 14,
+    "ProvinceName": "Davao Oriental"
+  },
+  {
+    "ProvinceCode": 61,
+    "RegionCode": 14,
+    "ProvinceName": "Davao de Oro"
+  },
+  {
+    "ProvinceCode": 62,
+    "RegionCode": 14,
+    "ProvinceName": "Davao Occidental"
+  },
+  {
+    "ProvinceCode": 63,
+    "RegionCode": 15,
+    "ProvinceName": "Cotabato"
+  },
+  {
+    "ProvinceCode": 64,
+    "RegionCode": 15,
+    "ProvinceName": "South Cotabato"
+  },
+  {
+    "ProvinceCode": 65,
+    "RegionCode": 15,
+    "ProvinceName": "Sultan Kudarat"
+  },
+  {
+    "ProvinceCode": 66,
+    "RegionCode": 15,
+    "ProvinceName": "Sarangani"
+  },
+  {
+    "ProvinceCode": 67,
+    "RegionCode": 2,
+    "ProvinceName": "Abra"
+  },
+  {
+    "ProvinceCode": 68,
+    "RegionCode": 2,
+    "ProvinceName": "Benguet"
+  },
+  {
+    "ProvinceCode": 69,
+    "RegionCode": 2,
+    "ProvinceName": "Ifugao"
+  },
+  {
+    "ProvinceCode": 70,
+    "RegionCode": 2,
+    "ProvinceName": "Kalinga"
+  },
+  {
+    "ProvinceCode": 71,
+    "RegionCode": 2,
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "ProvinceCode": 72,
+    "RegionCode": 2,
+    "ProvinceName": "Apayao"
+  },
+  {
+    "ProvinceCode": 73,
+    "RegionCode": 17,
+    "ProvinceName": "Basilan"
+  },
+  {
+    "ProvinceCode": 74,
+    "RegionCode": 17,
+    "ProvinceName": "Lanao del Sur"
+  },
+  {
+    "ProvinceCode": 75,
+    "RegionCode": 17,
+    "ProvinceName": "Maguindanao"
+  },
+  {
+    "ProvinceCode": 76,
+    "RegionCode": 17,
+    "ProvinceName": "Sulu"
+  },
+  {
+    "ProvinceCode": 77,
+    "RegionCode": 17,
+    "ProvinceName": "Tawi-Tawi"
+  },
+  {
+    "ProvinceCode": 78,
+    "RegionCode": 16,
+    "ProvinceName": "Agusan del Norte"
+  },
+  {
+    "ProvinceCode": 79,
+    "RegionCode": 16,
+    "ProvinceName": "Agusan del Sur"
+  },
+  {
+    "ProvinceCode": 80,
+    "RegionCode": 16,
+    "ProvinceName": "Surigao del Norte"
+  },
+  {
+    "ProvinceCode": 81,
+    "RegionCode": 16,
+    "ProvinceName": "Surigao del Sur"
+  },
+  {
+    "ProvinceCode": 82,
+    "RegionCode": 16,
+    "ProvinceName": "Dinagat Islands"
+  }
+]

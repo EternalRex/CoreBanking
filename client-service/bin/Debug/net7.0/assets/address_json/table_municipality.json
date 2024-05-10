@@ -1,0 +1,8172 @@
+[
+  {
+    "MunicipalityCode": 1,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Adams"
+  },
+  {
+    "MunicipalityCode": 2,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Bacarra"
+  },
+  {
+    "MunicipalityCode": 3,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Badoc"
+  },
+  {
+    "MunicipalityCode": 4,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Bangui"
+  },
+  {
+    "MunicipalityCode": 5,
+    "ProvinceCode": 2,
+    "MunicipalityName": "City of Batac"
+  },
+  {
+    "MunicipalityCode": 6,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 7,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Carasi"
+  },
+  {
+    "MunicipalityCode": 8,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Currimao"
+  },
+  {
+    "MunicipalityCode": 9,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Dingras"
+  },
+  {
+    "MunicipalityCode": 10,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Dumalneg"
+  },
+  {
+    "MunicipalityCode": 11,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Banna"
+  },
+  {
+    "MunicipalityCode": 12,
+    "ProvinceCode": 2,
+    "MunicipalityName": "City of Laoag"
+  },
+  {
+    "MunicipalityCode": 13,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Marcos"
+  },
+  {
+    "MunicipalityCode": 14,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Nueva Era"
+  },
+  {
+    "MunicipalityCode": 15,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Pagudpud"
+  },
+  {
+    "MunicipalityCode": 16,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Paoay"
+  },
+  {
+    "MunicipalityCode": 17,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Pasuquin"
+  },
+  {
+    "MunicipalityCode": 18,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Piddig"
+  },
+  {
+    "MunicipalityCode": 19,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Pinili"
+  },
+  {
+    "MunicipalityCode": 20,
+    "ProvinceCode": 2,
+    "MunicipalityName": "San Nicolas"
+  },
+  {
+    "MunicipalityCode": 21,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Sarrat"
+  },
+  {
+    "MunicipalityCode": 22,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Solsona"
+  },
+  {
+    "MunicipalityCode": 23,
+    "ProvinceCode": 2,
+    "MunicipalityName": "Vintar"
+  },
+  {
+    "MunicipalityCode": 24,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Alilem"
+  },
+  {
+    "MunicipalityCode": 25,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Banayoyo"
+  },
+  {
+    "MunicipalityCode": 26,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Bantay"
+  },
+  {
+    "MunicipalityCode": 27,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 28,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Cabugao"
+  },
+  {
+    "MunicipalityCode": 29,
+    "ProvinceCode": 3,
+    "MunicipalityName": "City of Candon"
+  },
+  {
+    "MunicipalityCode": 30,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Caoayan"
+  },
+  {
+    "MunicipalityCode": 31,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Cervantes"
+  },
+  {
+    "MunicipalityCode": 32,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Galimuyod"
+  },
+  {
+    "MunicipalityCode": 33,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Gregorio del Pilar"
+  },
+  {
+    "MunicipalityCode": 34,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Lidlidda"
+  },
+  {
+    "MunicipalityCode": 35,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Magsingal"
+  },
+  {
+    "MunicipalityCode": 36,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Nagbukel"
+  },
+  {
+    "MunicipalityCode": 37,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Narvacan"
+  },
+  {
+    "MunicipalityCode": 38,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Quirino"
+  },
+  {
+    "MunicipalityCode": 39,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Salcedo"
+  },
+  {
+    "MunicipalityCode": 40,
+    "ProvinceCode": 3,
+    "MunicipalityName": "San Emilio"
+  },
+  {
+    "MunicipalityCode": 41,
+    "ProvinceCode": 3,
+    "MunicipalityName": "San Esteban"
+  },
+  {
+    "MunicipalityCode": 42,
+    "ProvinceCode": 3,
+    "MunicipalityName": "San Ildefonso"
+  },
+  {
+    "MunicipalityCode": 43,
+    "ProvinceCode": 3,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 44,
+    "ProvinceCode": 3,
+    "MunicipalityName": "San Vicente"
+  },
+  {
+    "MunicipalityCode": 45,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santa"
+  },
+  {
+    "MunicipalityCode": 46,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santa Catalina"
+  },
+  {
+    "MunicipalityCode": 47,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 48,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santa Lucia"
+  },
+  {
+    "MunicipalityCode": 49,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 50,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santiago"
+  },
+  {
+    "MunicipalityCode": 51,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Santo Domingo"
+  },
+  {
+    "MunicipalityCode": 52,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Sigay"
+  },
+  {
+    "MunicipalityCode": 53,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Sinait"
+  },
+  {
+    "MunicipalityCode": 54,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Sugpon"
+  },
+  {
+    "MunicipalityCode": 55,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Suyo"
+  },
+  {
+    "MunicipalityCode": 56,
+    "ProvinceCode": 3,
+    "MunicipalityName": "Tagudin"
+  },
+  {
+    "MunicipalityCode": 57,
+    "ProvinceCode": 3,
+    "MunicipalityName": "City of Vigan"
+  },
+  {
+    "MunicipalityCode": 58,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Agoo"
+  },
+  {
+    "MunicipalityCode": 59,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Aringay"
+  },
+  {
+    "MunicipalityCode": 60,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Bacnotan"
+  },
+  {
+    "MunicipalityCode": 61,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Bagulin"
+  },
+  {
+    "MunicipalityCode": 62,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Balaoan"
+  },
+  {
+    "MunicipalityCode": 63,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Bangar"
+  },
+  {
+    "MunicipalityCode": 64,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Bauang"
+  },
+  {
+    "MunicipalityCode": 65,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 66,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Caba"
+  },
+  {
+    "MunicipalityCode": 67,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Luna"
+  },
+  {
+    "MunicipalityCode": 68,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Naguilian"
+  },
+  {
+    "MunicipalityCode": 69,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Pugo"
+  },
+  {
+    "MunicipalityCode": 70,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Rosario"
+  },
+  {
+    "MunicipalityCode": 71,
+    "ProvinceCode": 4,
+    "MunicipalityName": "City of San Fernando"
+  },
+  {
+    "MunicipalityCode": 72,
+    "ProvinceCode": 4,
+    "MunicipalityName": "San Gabriel"
+  },
+  {
+    "MunicipalityCode": 73,
+    "ProvinceCode": 4,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 74,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Santo Tomas"
+  },
+  {
+    "MunicipalityCode": 75,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Santol"
+  },
+  {
+    "MunicipalityCode": 76,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Sudipen"
+  },
+  {
+    "MunicipalityCode": 77,
+    "ProvinceCode": 4,
+    "MunicipalityName": "Tubao"
+  },
+  {
+    "MunicipalityCode": 78,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Agno"
+  },
+  {
+    "MunicipalityCode": 79,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Aguilar"
+  },
+  {
+    "MunicipalityCode": 80,
+    "ProvinceCode": 5,
+    "MunicipalityName": "City of Alaminos"
+  },
+  {
+    "MunicipalityCode": 81,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Alcala"
+  },
+  {
+    "MunicipalityCode": 82,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Anda"
+  },
+  {
+    "MunicipalityCode": 83,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Asingan"
+  },
+  {
+    "MunicipalityCode": 84,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Balungao"
+  },
+  {
+    "MunicipalityCode": 85,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Bani"
+  },
+  {
+    "MunicipalityCode": 86,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Basista"
+  },
+  {
+    "MunicipalityCode": 87,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Bautista"
+  },
+  {
+    "MunicipalityCode": 88,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Bayambang"
+  },
+  {
+    "MunicipalityCode": 89,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Binalonan"
+  },
+  {
+    "MunicipalityCode": 90,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Binmaley"
+  },
+  {
+    "MunicipalityCode": 91,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Bolinao"
+  },
+  {
+    "MunicipalityCode": 92,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Bugallon"
+  },
+  {
+    "MunicipalityCode": 93,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 94,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Calasiao"
+  },
+  {
+    "MunicipalityCode": 95,
+    "ProvinceCode": 5,
+    "MunicipalityName": "City of Dagupan"
+  },
+  {
+    "MunicipalityCode": 96,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Dasol"
+  },
+  {
+    "MunicipalityCode": 97,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Infanta"
+  },
+  {
+    "MunicipalityCode": 98,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Labrador"
+  },
+  {
+    "MunicipalityCode": 99,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Lingayen"
+  },
+  {
+    "MunicipalityCode": 100,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Mabini"
+  },
+  {
+    "MunicipalityCode": 101,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Malasiqui"
+  },
+  {
+    "MunicipalityCode": 102,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Manaoag"
+  },
+  {
+    "MunicipalityCode": 103,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Mangaldan"
+  },
+  {
+    "MunicipalityCode": 104,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Mangatarem"
+  },
+  {
+    "MunicipalityCode": 105,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Mapandan"
+  },
+  {
+    "MunicipalityCode": 106,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Natividad"
+  },
+  {
+    "MunicipalityCode": 107,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Pozorrubio"
+  },
+  {
+    "MunicipalityCode": 108,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Rosales"
+  },
+  {
+    "MunicipalityCode": 109,
+    "ProvinceCode": 5,
+    "MunicipalityName": "City of San Carlos"
+  },
+  {
+    "MunicipalityCode": 110,
+    "ProvinceCode": 5,
+    "MunicipalityName": "San Fabian"
+  },
+  {
+    "MunicipalityCode": 111,
+    "ProvinceCode": 5,
+    "MunicipalityName": "San Jacinto"
+  },
+  {
+    "MunicipalityCode": 112,
+    "ProvinceCode": 5,
+    "MunicipalityName": "San Manuel"
+  },
+  {
+    "MunicipalityCode": 113,
+    "ProvinceCode": 5,
+    "MunicipalityName": "San Nicolas"
+  },
+  {
+    "MunicipalityCode": 114,
+    "ProvinceCode": 5,
+    "MunicipalityName": "San Quintin"
+  },
+  {
+    "MunicipalityCode": 115,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Santa Barbara"
+  },
+  {
+    "MunicipalityCode": 116,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 117,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Santo Tomas"
+  },
+  {
+    "MunicipalityCode": 118,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Sison"
+  },
+  {
+    "MunicipalityCode": 119,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Sual"
+  },
+  {
+    "MunicipalityCode": 120,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Tayug"
+  },
+  {
+    "MunicipalityCode": 121,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Umingan"
+  },
+  {
+    "MunicipalityCode": 122,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Urbiztondo"
+  },
+  {
+    "MunicipalityCode": 123,
+    "ProvinceCode": 5,
+    "MunicipalityName": "City of Urdaneta"
+  },
+  {
+    "MunicipalityCode": 124,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Villasis"
+  },
+  {
+    "MunicipalityCode": 125,
+    "ProvinceCode": 5,
+    "MunicipalityName": "Laoac"
+  },
+  {
+    "MunicipalityCode": 126,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Basco"
+  },
+  {
+    "MunicipalityCode": 127,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Itbayat"
+  },
+  {
+    "MunicipalityCode": 128,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Ivana"
+  },
+  {
+    "MunicipalityCode": 129,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Mahatao"
+  },
+  {
+    "MunicipalityCode": 130,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Sabtang"
+  },
+  {
+    "MunicipalityCode": 131,
+    "ProvinceCode": 6,
+    "MunicipalityName": "Uyugan"
+  },
+  {
+    "MunicipalityCode": 132,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Abulug"
+  },
+  {
+    "MunicipalityCode": 133,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Alcala"
+  },
+  {
+    "MunicipalityCode": 134,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Allacapan"
+  },
+  {
+    "MunicipalityCode": 135,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Amulung"
+  },
+  {
+    "MunicipalityCode": 136,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Aparri"
+  },
+  {
+    "MunicipalityCode": 137,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Baggao"
+  },
+  {
+    "MunicipalityCode": 138,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Ballesteros"
+  },
+  {
+    "MunicipalityCode": 139,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Buguey"
+  },
+  {
+    "MunicipalityCode": 140,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Calayan"
+  },
+  {
+    "MunicipalityCode": 141,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Camalaniugan"
+  },
+  {
+    "MunicipalityCode": 142,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Claveria"
+  },
+  {
+    "MunicipalityCode": 143,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Enrile"
+  },
+  {
+    "MunicipalityCode": 144,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Gattaran"
+  },
+  {
+    "MunicipalityCode": 145,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Gonzaga"
+  },
+  {
+    "MunicipalityCode": 146,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Iguig"
+  },
+  {
+    "MunicipalityCode": 147,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Lal-Lo"
+  },
+  {
+    "MunicipalityCode": 148,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Lasam"
+  },
+  {
+    "MunicipalityCode": 149,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Pamplona"
+  },
+  {
+    "MunicipalityCode": 150,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Peñablanca"
+  },
+  {
+    "MunicipalityCode": 151,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Piat"
+  },
+  {
+    "MunicipalityCode": 152,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 153,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Sanchez-Mira"
+  },
+  {
+    "MunicipalityCode": 154,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Santa Ana"
+  },
+  {
+    "MunicipalityCode": 155,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Santa Praxedes"
+  },
+  {
+    "MunicipalityCode": 156,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Santa Teresita"
+  },
+  {
+    "MunicipalityCode": 157,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Santo Niño"
+  },
+  {
+    "MunicipalityCode": 158,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Solana"
+  },
+  {
+    "MunicipalityCode": 159,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Tuao"
+  },
+  {
+    "MunicipalityCode": 160,
+    "ProvinceCode": 7,
+    "MunicipalityName": "Tuguegarao City"
+  },
+  {
+    "MunicipalityCode": 161,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Alicia"
+  },
+  {
+    "MunicipalityCode": 162,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Angadanan"
+  },
+  {
+    "MunicipalityCode": 163,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Aurora"
+  },
+  {
+    "MunicipalityCode": 164,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Benito Soliven"
+  },
+  {
+    "MunicipalityCode": 165,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 166,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Cabagan"
+  },
+  {
+    "MunicipalityCode": 167,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Cabatuan"
+  },
+  {
+    "MunicipalityCode": 168,
+    "ProvinceCode": 8,
+    "MunicipalityName": "City of Cauayan"
+  },
+  {
+    "MunicipalityCode": 169,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Cordon"
+  },
+  {
+    "MunicipalityCode": 170,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Dinapigue"
+  },
+  {
+    "MunicipalityCode": 171,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Divilacan"
+  },
+  {
+    "MunicipalityCode": 172,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Echague"
+  },
+  {
+    "MunicipalityCode": 173,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Gamu"
+  },
+  {
+    "MunicipalityCode": 174,
+    "ProvinceCode": 8,
+    "MunicipalityName": "City of Ilagan"
+  },
+  {
+    "MunicipalityCode": 175,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Jones"
+  },
+  {
+    "MunicipalityCode": 176,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Luna"
+  },
+  {
+    "MunicipalityCode": 177,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Maconacon"
+  },
+  {
+    "MunicipalityCode": 178,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Delfin Albano"
+  },
+  {
+    "MunicipalityCode": 179,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Mallig"
+  },
+  {
+    "MunicipalityCode": 180,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Naguilian"
+  },
+  {
+    "MunicipalityCode": 181,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Palanan"
+  },
+  {
+    "MunicipalityCode": 182,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 183,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Quirino"
+  },
+  {
+    "MunicipalityCode": 184,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Ramon"
+  },
+  {
+    "MunicipalityCode": 185,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Reina Mercedes"
+  },
+  {
+    "MunicipalityCode": 186,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Roxas"
+  },
+  {
+    "MunicipalityCode": 187,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Agustin"
+  },
+  {
+    "MunicipalityCode": 188,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Guillermo"
+  },
+  {
+    "MunicipalityCode": 189,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 190,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Manuel"
+  },
+  {
+    "MunicipalityCode": 191,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Mariano"
+  },
+  {
+    "MunicipalityCode": 192,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Mateo"
+  },
+  {
+    "MunicipalityCode": 193,
+    "ProvinceCode": 8,
+    "MunicipalityName": "San Pablo"
+  },
+  {
+    "MunicipalityCode": 194,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 195,
+    "ProvinceCode": 8,
+    "MunicipalityName": "City of Santiago"
+  },
+  {
+    "MunicipalityCode": 196,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Santo Tomas"
+  },
+  {
+    "MunicipalityCode": 197,
+    "ProvinceCode": 8,
+    "MunicipalityName": "Tumauini"
+  },
+  {
+    "MunicipalityCode": 198,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Ambaguio"
+  },
+  {
+    "MunicipalityCode": 199,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Aritao"
+  },
+  {
+    "MunicipalityCode": 200,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Bagabag"
+  },
+  {
+    "MunicipalityCode": 201,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Bambang"
+  },
+  {
+    "MunicipalityCode": 202,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Bayombong"
+  },
+  {
+    "MunicipalityCode": 203,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Diadi"
+  },
+  {
+    "MunicipalityCode": 204,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Dupax del Norte"
+  },
+  {
+    "MunicipalityCode": 205,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Dupax del Sur"
+  },
+  {
+    "MunicipalityCode": 206,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Kasibu"
+  },
+  {
+    "MunicipalityCode": 207,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Kayapa"
+  },
+  {
+    "MunicipalityCode": 208,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 209,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Santa Fe"
+  },
+  {
+    "MunicipalityCode": 210,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Solano"
+  },
+  {
+    "MunicipalityCode": 211,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Villaverde"
+  },
+  {
+    "MunicipalityCode": 212,
+    "ProvinceCode": 9,
+    "MunicipalityName": "Alfonso Castaneda"
+  },
+  {
+    "MunicipalityCode": 213,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Aglipay"
+  },
+  {
+    "MunicipalityCode": 214,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Cabarroguis"
+  },
+  {
+    "MunicipalityCode": 215,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Diffun"
+  },
+  {
+    "MunicipalityCode": 216,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Maddela"
+  },
+  {
+    "MunicipalityCode": 217,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Saguday"
+  },
+  {
+    "MunicipalityCode": 218,
+    "ProvinceCode": 10,
+    "MunicipalityName": "Nagtipunan"
+  },
+  {
+    "MunicipalityCode": 219,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Abucay"
+  },
+  {
+    "MunicipalityCode": 220,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Bagac"
+  },
+  {
+    "MunicipalityCode": 221,
+    "ProvinceCode": 11,
+    "MunicipalityName": "City of Balanga"
+  },
+  {
+    "MunicipalityCode": 222,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Dinalupihan"
+  },
+  {
+    "MunicipalityCode": 223,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Hermosa"
+  },
+  {
+    "MunicipalityCode": 224,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Limay"
+  },
+  {
+    "MunicipalityCode": 225,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Mariveles"
+  },
+  {
+    "MunicipalityCode": 226,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Morong"
+  },
+  {
+    "MunicipalityCode": 227,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Orani"
+  },
+  {
+    "MunicipalityCode": 228,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Orion"
+  },
+  {
+    "MunicipalityCode": 229,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 230,
+    "ProvinceCode": 11,
+    "MunicipalityName": "Samal"
+  },
+  {
+    "MunicipalityCode": 231,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Angat"
+  },
+  {
+    "MunicipalityCode": 232,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Balagtas"
+  },
+  {
+    "MunicipalityCode": 233,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Baliuag"
+  },
+  {
+    "MunicipalityCode": 234,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Bocaue"
+  },
+  {
+    "MunicipalityCode": 235,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Bulacan"
+  },
+  {
+    "MunicipalityCode": 236,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Bustos"
+  },
+  {
+    "MunicipalityCode": 237,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Calumpit"
+  },
+  {
+    "MunicipalityCode": 238,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Guiguinto"
+  },
+  {
+    "MunicipalityCode": 239,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Hagonoy"
+  },
+  {
+    "MunicipalityCode": 240,
+    "ProvinceCode": 12,
+    "MunicipalityName": "City of Malolos"
+  },
+  {
+    "MunicipalityCode": 241,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Marilao"
+  },
+  {
+    "MunicipalityCode": 242,
+    "ProvinceCode": 12,
+    "MunicipalityName": "City of Meycauayan"
+  },
+  {
+    "MunicipalityCode": 243,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Norzagaray"
+  },
+  {
+    "MunicipalityCode": 244,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Obando"
+  },
+  {
+    "MunicipalityCode": 245,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Pandi"
+  },
+  {
+    "MunicipalityCode": 246,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Paombong"
+  },
+  {
+    "MunicipalityCode": 247,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Plaridel"
+  },
+  {
+    "MunicipalityCode": 248,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Pulilan"
+  },
+  {
+    "MunicipalityCode": 249,
+    "ProvinceCode": 12,
+    "MunicipalityName": "San Ildefonso"
+  },
+  {
+    "MunicipalityCode": 250,
+    "ProvinceCode": 12,
+    "MunicipalityName": "City of San Jose Del Monte"
+  },
+  {
+    "MunicipalityCode": 251,
+    "ProvinceCode": 12,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 252,
+    "ProvinceCode": 12,
+    "MunicipalityName": "San Rafael"
+  },
+  {
+    "MunicipalityCode": 253,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 254,
+    "ProvinceCode": 12,
+    "MunicipalityName": "Doña Remedios Trinidad"
+  },
+  {
+    "MunicipalityCode": 255,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Aliaga"
+  },
+  {
+    "MunicipalityCode": 256,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Bongabon"
+  },
+  {
+    "MunicipalityCode": 257,
+    "ProvinceCode": 13,
+    "MunicipalityName": "City of Cabanatuan"
+  },
+  {
+    "MunicipalityCode": 258,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Cabiao"
+  },
+  {
+    "MunicipalityCode": 259,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Carranglan"
+  },
+  {
+    "MunicipalityCode": 260,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Cuyapo"
+  },
+  {
+    "MunicipalityCode": 261,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Gabaldon"
+  },
+  {
+    "MunicipalityCode": 262,
+    "ProvinceCode": 13,
+    "MunicipalityName": "City of Gapan"
+  },
+  {
+    "MunicipalityCode": 263,
+    "ProvinceCode": 13,
+    "MunicipalityName": "General Mamerto Natividad"
+  },
+  {
+    "MunicipalityCode": 264,
+    "ProvinceCode": 13,
+    "MunicipalityName": "General Tinio"
+  },
+  {
+    "MunicipalityCode": 265,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Guimba"
+  },
+  {
+    "MunicipalityCode": 266,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Jaen"
+  },
+  {
+    "MunicipalityCode": 267,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Laur"
+  },
+  {
+    "MunicipalityCode": 268,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Licab"
+  },
+  {
+    "MunicipalityCode": 269,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Llanera"
+  },
+  {
+    "MunicipalityCode": 270,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Lupao"
+  },
+  {
+    "MunicipalityCode": 271,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Science City of Muñoz"
+  },
+  {
+    "MunicipalityCode": 272,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Nampicuan"
+  },
+  {
+    "MunicipalityCode": 273,
+    "ProvinceCode": 13,
+    "MunicipalityName": "City of Palayan"
+  },
+  {
+    "MunicipalityCode": 274,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Pantabangan"
+  },
+  {
+    "MunicipalityCode": 275,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Peñaranda"
+  },
+  {
+    "MunicipalityCode": 276,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 277,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 278,
+    "ProvinceCode": 13,
+    "MunicipalityName": "San Antonio"
+  },
+  {
+    "MunicipalityCode": 279,
+    "ProvinceCode": 13,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 280,
+    "ProvinceCode": 13,
+    "MunicipalityName": "San Jose City"
+  },
+  {
+    "MunicipalityCode": 281,
+    "ProvinceCode": 13,
+    "MunicipalityName": "San Leonardo"
+  },
+  {
+    "MunicipalityCode": 282,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Santa Rosa"
+  },
+  {
+    "MunicipalityCode": 283,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Santo Domingo"
+  },
+  {
+    "MunicipalityCode": 284,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Talavera"
+  },
+  {
+    "MunicipalityCode": 285,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Talugtug"
+  },
+  {
+    "MunicipalityCode": 286,
+    "ProvinceCode": 13,
+    "MunicipalityName": "Zaragoza"
+  },
+  {
+    "MunicipalityCode": 287,
+    "ProvinceCode": 14,
+    "MunicipalityName": "City of Angeles"
+  },
+  {
+    "MunicipalityCode": 288,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Apalit"
+  },
+  {
+    "MunicipalityCode": 289,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Arayat"
+  },
+  {
+    "MunicipalityCode": 290,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Bacolor"
+  },
+  {
+    "MunicipalityCode": 291,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Candaba"
+  },
+  {
+    "MunicipalityCode": 292,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Floridablanca"
+  },
+  {
+    "MunicipalityCode": 293,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Guagua"
+  },
+  {
+    "MunicipalityCode": 294,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Lubao"
+  },
+  {
+    "MunicipalityCode": 295,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Mabalacat City"
+  },
+  {
+    "MunicipalityCode": 296,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Macabebe"
+  },
+  {
+    "MunicipalityCode": 297,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Magalang"
+  },
+  {
+    "MunicipalityCode": 298,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Masantol"
+  },
+  {
+    "MunicipalityCode": 299,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Mexico"
+  },
+  {
+    "MunicipalityCode": 300,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Minalin"
+  },
+  {
+    "MunicipalityCode": 301,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Porac"
+  },
+  {
+    "MunicipalityCode": 302,
+    "ProvinceCode": 14,
+    "MunicipalityName": "City of San Fernando"
+  },
+  {
+    "MunicipalityCode": 303,
+    "ProvinceCode": 14,
+    "MunicipalityName": "San Luis"
+  },
+  {
+    "MunicipalityCode": 304,
+    "ProvinceCode": 14,
+    "MunicipalityName": "San Simon"
+  },
+  {
+    "MunicipalityCode": 305,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Santa Ana"
+  },
+  {
+    "MunicipalityCode": 306,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Santa Rita"
+  },
+  {
+    "MunicipalityCode": 307,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Santo Tomas"
+  },
+  {
+    "MunicipalityCode": 308,
+    "ProvinceCode": 14,
+    "MunicipalityName": "Sasmuan"
+  },
+  {
+    "MunicipalityCode": 309,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Anao"
+  },
+  {
+    "MunicipalityCode": 310,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Bamban"
+  },
+  {
+    "MunicipalityCode": 311,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Camiling"
+  },
+  {
+    "MunicipalityCode": 312,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Capas"
+  },
+  {
+    "MunicipalityCode": 313,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Concepcion"
+  },
+  {
+    "MunicipalityCode": 314,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Gerona"
+  },
+  {
+    "MunicipalityCode": 315,
+    "ProvinceCode": 15,
+    "MunicipalityName": "La Paz"
+  },
+  {
+    "MunicipalityCode": 316,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Mayantoc"
+  },
+  {
+    "MunicipalityCode": 317,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Moncada"
+  },
+  {
+    "MunicipalityCode": 318,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Paniqui"
+  },
+  {
+    "MunicipalityCode": 319,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Pura"
+  },
+  {
+    "MunicipalityCode": 320,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Ramos"
+  },
+  {
+    "MunicipalityCode": 321,
+    "ProvinceCode": 15,
+    "MunicipalityName": "San Clemente"
+  },
+  {
+    "MunicipalityCode": 322,
+    "ProvinceCode": 15,
+    "MunicipalityName": "San Manuel"
+  },
+  {
+    "MunicipalityCode": 323,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Santa Ignacia"
+  },
+  {
+    "MunicipalityCode": 324,
+    "ProvinceCode": 15,
+    "MunicipalityName": "City of Tarlac"
+  },
+  {
+    "MunicipalityCode": 325,
+    "ProvinceCode": 15,
+    "MunicipalityName": "Victoria"
+  },
+  {
+    "MunicipalityCode": 326,
+    "ProvinceCode": 15,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 327,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Botolan"
+  },
+  {
+    "MunicipalityCode": 328,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Cabangan"
+  },
+  {
+    "MunicipalityCode": 329,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Candelaria"
+  },
+  {
+    "MunicipalityCode": 330,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Castillejos"
+  },
+  {
+    "MunicipalityCode": 331,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Iba"
+  },
+  {
+    "MunicipalityCode": 332,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Masinloc"
+  },
+  {
+    "MunicipalityCode": 333,
+    "ProvinceCode": 16,
+    "MunicipalityName": "City of Olongapo"
+  },
+  {
+    "MunicipalityCode": 334,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Palauig"
+  },
+  {
+    "MunicipalityCode": 335,
+    "ProvinceCode": 16,
+    "MunicipalityName": "San Antonio"
+  },
+  {
+    "MunicipalityCode": 336,
+    "ProvinceCode": 16,
+    "MunicipalityName": "San Felipe"
+  },
+  {
+    "MunicipalityCode": 337,
+    "ProvinceCode": 16,
+    "MunicipalityName": "San Marcelino"
+  },
+  {
+    "MunicipalityCode": 338,
+    "ProvinceCode": 16,
+    "MunicipalityName": "San Narciso"
+  },
+  {
+    "MunicipalityCode": 339,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 340,
+    "ProvinceCode": 16,
+    "MunicipalityName": "Subic"
+  },
+  {
+    "MunicipalityCode": 341,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Baler"
+  },
+  {
+    "MunicipalityCode": 342,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Casiguran"
+  },
+  {
+    "MunicipalityCode": 343,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Dilasag"
+  },
+  {
+    "MunicipalityCode": 344,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Dinalungan"
+  },
+  {
+    "MunicipalityCode": 345,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Dingalan"
+  },
+  {
+    "MunicipalityCode": 346,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Dipaculao"
+  },
+  {
+    "MunicipalityCode": 347,
+    "ProvinceCode": 17,
+    "MunicipalityName": "Maria Aurora"
+  },
+  {
+    "MunicipalityCode": 348,
+    "ProvinceCode": 17,
+    "MunicipalityName": "San Luis"
+  },
+  {
+    "MunicipalityCode": 349,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Agoncillo"
+  },
+  {
+    "MunicipalityCode": 350,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Alitagtag"
+  },
+  {
+    "MunicipalityCode": 351,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Balayan"
+  },
+  {
+    "MunicipalityCode": 352,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Balete"
+  },
+  {
+    "MunicipalityCode": 353,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Batangas City"
+  },
+  {
+    "MunicipalityCode": 354,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Bauan"
+  },
+  {
+    "MunicipalityCode": 355,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Calaca"
+  },
+  {
+    "MunicipalityCode": 356,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Calatagan"
+  },
+  {
+    "MunicipalityCode": 357,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Cuenca"
+  },
+  {
+    "MunicipalityCode": 358,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Ibaan"
+  },
+  {
+    "MunicipalityCode": 359,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Laurel"
+  },
+  {
+    "MunicipalityCode": 360,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Lemery"
+  },
+  {
+    "MunicipalityCode": 361,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Lian"
+  },
+  {
+    "MunicipalityCode": 362,
+    "ProvinceCode": 18,
+    "MunicipalityName": "City of Lipa"
+  },
+  {
+    "MunicipalityCode": 363,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Lobo"
+  },
+  {
+    "MunicipalityCode": 364,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Mabini"
+  },
+  {
+    "MunicipalityCode": 365,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Malvar"
+  },
+  {
+    "MunicipalityCode": 366,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Mataasnakahoy"
+  },
+  {
+    "MunicipalityCode": 367,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Nasugbu"
+  },
+  {
+    "MunicipalityCode": 368,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Padre Garcia"
+  },
+  {
+    "MunicipalityCode": 369,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Rosario"
+  },
+  {
+    "MunicipalityCode": 370,
+    "ProvinceCode": 18,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 371,
+    "ProvinceCode": 18,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 372,
+    "ProvinceCode": 18,
+    "MunicipalityName": "San Luis"
+  },
+  {
+    "MunicipalityCode": 373,
+    "ProvinceCode": 18,
+    "MunicipalityName": "San Nicolas"
+  },
+  {
+    "MunicipalityCode": 374,
+    "ProvinceCode": 18,
+    "MunicipalityName": "San Pascual"
+  },
+  {
+    "MunicipalityCode": 375,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Santa Teresita"
+  },
+  {
+    "MunicipalityCode": 376,
+    "ProvinceCode": 18,
+    "MunicipalityName": "City of Sto. Tomas"
+  },
+  {
+    "MunicipalityCode": 377,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Taal"
+  },
+  {
+    "MunicipalityCode": 378,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Talisay"
+  },
+  {
+    "MunicipalityCode": 379,
+    "ProvinceCode": 18,
+    "MunicipalityName": "City of Tanauan"
+  },
+  {
+    "MunicipalityCode": 380,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Taysan"
+  },
+  {
+    "MunicipalityCode": 381,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Tingloy"
+  },
+  {
+    "MunicipalityCode": 382,
+    "ProvinceCode": 18,
+    "MunicipalityName": "Tuy"
+  },
+  {
+    "MunicipalityCode": 383,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Alfonso"
+  },
+  {
+    "MunicipalityCode": 384,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Amadeo"
+  },
+  {
+    "MunicipalityCode": 385,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Bacoor"
+  },
+  {
+    "MunicipalityCode": 386,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Carmona"
+  },
+  {
+    "MunicipalityCode": 387,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Cavite"
+  },
+  {
+    "MunicipalityCode": 388,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Dasmariñas"
+  },
+  {
+    "MunicipalityCode": 389,
+    "ProvinceCode": 19,
+    "MunicipalityName": "General Emilio Aguinaldo"
+  },
+  {
+    "MunicipalityCode": 390,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of General Trias"
+  },
+  {
+    "MunicipalityCode": 391,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Imus"
+  },
+  {
+    "MunicipalityCode": 392,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Indang"
+  },
+  {
+    "MunicipalityCode": 393,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Kawit"
+  },
+  {
+    "MunicipalityCode": 394,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Magallanes"
+  },
+  {
+    "MunicipalityCode": 395,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Maragondon"
+  },
+  {
+    "MunicipalityCode": 396,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Mendez"
+  },
+  {
+    "MunicipalityCode": 397,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Naic"
+  },
+  {
+    "MunicipalityCode": 398,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Noveleta"
+  },
+  {
+    "MunicipalityCode": 399,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Rosario"
+  },
+  {
+    "MunicipalityCode": 400,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Silang"
+  },
+  {
+    "MunicipalityCode": 401,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Tagaytay"
+  },
+  {
+    "MunicipalityCode": 402,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Tanza"
+  },
+  {
+    "MunicipalityCode": 403,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Ternate"
+  },
+  {
+    "MunicipalityCode": 404,
+    "ProvinceCode": 19,
+    "MunicipalityName": "City of Trece Martires"
+  },
+  {
+    "MunicipalityCode": 405,
+    "ProvinceCode": 19,
+    "MunicipalityName": "Gen. Mariano Alvarez"
+  },
+  {
+    "MunicipalityCode": 406,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Alaminos"
+  },
+  {
+    "MunicipalityCode": 407,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Bay"
+  },
+  {
+    "MunicipalityCode": 408,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of Biñan"
+  },
+  {
+    "MunicipalityCode": 409,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of Cabuyao"
+  },
+  {
+    "MunicipalityCode": 410,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of Calamba"
+  },
+  {
+    "MunicipalityCode": 411,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Calauan"
+  },
+  {
+    "MunicipalityCode": 412,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Cavinti"
+  },
+  {
+    "MunicipalityCode": 413,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Famy"
+  },
+  {
+    "MunicipalityCode": 414,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Kalayaan"
+  },
+  {
+    "MunicipalityCode": 415,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Liliw"
+  },
+  {
+    "MunicipalityCode": 416,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Los Baños"
+  },
+  {
+    "MunicipalityCode": 417,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Luisiana"
+  },
+  {
+    "MunicipalityCode": 418,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Lumban"
+  },
+  {
+    "MunicipalityCode": 419,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Mabitac"
+  },
+  {
+    "MunicipalityCode": 420,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Magdalena"
+  },
+  {
+    "MunicipalityCode": 421,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Majayjay"
+  },
+  {
+    "MunicipalityCode": 422,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Nagcarlan"
+  },
+  {
+    "MunicipalityCode": 423,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Paete"
+  },
+  {
+    "MunicipalityCode": 424,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Pagsanjan"
+  },
+  {
+    "MunicipalityCode": 425,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Pakil"
+  },
+  {
+    "MunicipalityCode": 426,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Pangil"
+  },
+  {
+    "MunicipalityCode": 427,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Pila"
+  },
+  {
+    "MunicipalityCode": 428,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 429,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of San Pablo"
+  },
+  {
+    "MunicipalityCode": 430,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of San Pedro"
+  },
+  {
+    "MunicipalityCode": 431,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 432,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 433,
+    "ProvinceCode": 20,
+    "MunicipalityName": "City of Santa Rosa"
+  },
+  {
+    "MunicipalityCode": 434,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Siniloan"
+  },
+  {
+    "MunicipalityCode": 435,
+    "ProvinceCode": 20,
+    "MunicipalityName": "Victoria"
+  },
+  {
+    "MunicipalityCode": 436,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Agdangan"
+  },
+  {
+    "MunicipalityCode": 437,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Alabat"
+  },
+  {
+    "MunicipalityCode": 438,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Atimonan"
+  },
+  {
+    "MunicipalityCode": 439,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Buenavista"
+  },
+  {
+    "MunicipalityCode": 440,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Burdeos"
+  },
+  {
+    "MunicipalityCode": 441,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Calauag"
+  },
+  {
+    "MunicipalityCode": 442,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Candelaria"
+  },
+  {
+    "MunicipalityCode": 443,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Catanauan"
+  },
+  {
+    "MunicipalityCode": 444,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Dolores"
+  },
+  {
+    "MunicipalityCode": 445,
+    "ProvinceCode": 21,
+    "MunicipalityName": "General Luna"
+  },
+  {
+    "MunicipalityCode": 446,
+    "ProvinceCode": 21,
+    "MunicipalityName": "General Nakar"
+  },
+  {
+    "MunicipalityCode": 447,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Guinayangan"
+  },
+  {
+    "MunicipalityCode": 448,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Gumaca"
+  },
+  {
+    "MunicipalityCode": 449,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Infanta"
+  },
+  {
+    "MunicipalityCode": 450,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Jomalig"
+  },
+  {
+    "MunicipalityCode": 451,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Lopez"
+  },
+  {
+    "MunicipalityCode": 452,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Lucban"
+  },
+  {
+    "MunicipalityCode": 453,
+    "ProvinceCode": 21,
+    "MunicipalityName": "City of Lucena"
+  },
+  {
+    "MunicipalityCode": 454,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Macalelon"
+  },
+  {
+    "MunicipalityCode": 455,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Mauban"
+  },
+  {
+    "MunicipalityCode": 456,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Mulanay"
+  },
+  {
+    "MunicipalityCode": 457,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Padre Burgos"
+  },
+  {
+    "MunicipalityCode": 458,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Pagbilao"
+  },
+  {
+    "MunicipalityCode": 459,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Panukulan"
+  },
+  {
+    "MunicipalityCode": 460,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Patnanungan"
+  },
+  {
+    "MunicipalityCode": 461,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Perez"
+  },
+  {
+    "MunicipalityCode": 462,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Pitogo"
+  },
+  {
+    "MunicipalityCode": 463,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Plaridel"
+  },
+  {
+    "MunicipalityCode": 464,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Polillo"
+  },
+  {
+    "MunicipalityCode": 465,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 466,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Real"
+  },
+  {
+    "MunicipalityCode": 467,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Sampaloc"
+  },
+  {
+    "MunicipalityCode": 468,
+    "ProvinceCode": 21,
+    "MunicipalityName": "San Andres"
+  },
+  {
+    "MunicipalityCode": 469,
+    "ProvinceCode": 21,
+    "MunicipalityName": "San Antonio"
+  },
+  {
+    "MunicipalityCode": 470,
+    "ProvinceCode": 21,
+    "MunicipalityName": "San Francisco"
+  },
+  {
+    "MunicipalityCode": 471,
+    "ProvinceCode": 21,
+    "MunicipalityName": "San Narciso"
+  },
+  {
+    "MunicipalityCode": 472,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Sariaya"
+  },
+  {
+    "MunicipalityCode": 473,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Tagkawayan"
+  },
+  {
+    "MunicipalityCode": 474,
+    "ProvinceCode": 21,
+    "MunicipalityName": "City of Tayabas"
+  },
+  {
+    "MunicipalityCode": 475,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Tiaong"
+  },
+  {
+    "MunicipalityCode": 476,
+    "ProvinceCode": 21,
+    "MunicipalityName": "Unisan"
+  },
+  {
+    "MunicipalityCode": 477,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Angono"
+  },
+  {
+    "MunicipalityCode": 478,
+    "ProvinceCode": 22,
+    "MunicipalityName": "City of Antipolo"
+  },
+  {
+    "MunicipalityCode": 479,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Baras"
+  },
+  {
+    "MunicipalityCode": 480,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Binangonan"
+  },
+  {
+    "MunicipalityCode": 481,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Cainta"
+  },
+  {
+    "MunicipalityCode": 482,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Cardona"
+  },
+  {
+    "MunicipalityCode": 483,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Jala-Jala"
+  },
+  {
+    "MunicipalityCode": 484,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Rodriguez"
+  },
+  {
+    "MunicipalityCode": 485,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Morong"
+  },
+  {
+    "MunicipalityCode": 486,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Pililla"
+  },
+  {
+    "MunicipalityCode": 487,
+    "ProvinceCode": 22,
+    "MunicipalityName": "San Mateo"
+  },
+  {
+    "MunicipalityCode": 488,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Tanay"
+  },
+  {
+    "MunicipalityCode": 489,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Taytay"
+  },
+  {
+    "MunicipalityCode": 490,
+    "ProvinceCode": 22,
+    "MunicipalityName": "Teresa"
+  },
+  {
+    "MunicipalityCode": 491,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Boac"
+  },
+  {
+    "MunicipalityCode": 492,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Buenavista"
+  },
+  {
+    "MunicipalityCode": 493,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Gasan"
+  },
+  {
+    "MunicipalityCode": 494,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Mogpog"
+  },
+  {
+    "MunicipalityCode": 495,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 496,
+    "ProvinceCode": 23,
+    "MunicipalityName": "Torrijos"
+  },
+  {
+    "MunicipalityCode": 497,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Abra De Ilog"
+  },
+  {
+    "MunicipalityCode": 498,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Calintaan"
+  },
+  {
+    "MunicipalityCode": 499,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Looc"
+  },
+  {
+    "MunicipalityCode": 500,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Lubang"
+  },
+  {
+    "MunicipalityCode": 501,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Magsaysay"
+  },
+  {
+    "MunicipalityCode": 502,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Mamburao"
+  },
+  {
+    "MunicipalityCode": 503,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Paluan"
+  },
+  {
+    "MunicipalityCode": 504,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 505,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Sablayan"
+  },
+  {
+    "MunicipalityCode": 506,
+    "ProvinceCode": 24,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 507,
+    "ProvinceCode": 24,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 508,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Baco"
+  },
+  {
+    "MunicipalityCode": 509,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Bansud"
+  },
+  {
+    "MunicipalityCode": 510,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Bongabong"
+  },
+  {
+    "MunicipalityCode": 511,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Bulalacao"
+  },
+  {
+    "MunicipalityCode": 512,
+    "ProvinceCode": 25,
+    "MunicipalityName": "City of Calapan"
+  },
+  {
+    "MunicipalityCode": 513,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Gloria"
+  },
+  {
+    "MunicipalityCode": 514,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Mansalay"
+  },
+  {
+    "MunicipalityCode": 515,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Naujan"
+  },
+  {
+    "MunicipalityCode": 516,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Pinamalayan"
+  },
+  {
+    "MunicipalityCode": 517,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Pola"
+  },
+  {
+    "MunicipalityCode": 518,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Puerto Galera"
+  },
+  {
+    "MunicipalityCode": 519,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Roxas"
+  },
+  {
+    "MunicipalityCode": 520,
+    "ProvinceCode": 25,
+    "MunicipalityName": "San Teodoro"
+  },
+  {
+    "MunicipalityCode": 521,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Socorro"
+  },
+  {
+    "MunicipalityCode": 522,
+    "ProvinceCode": 25,
+    "MunicipalityName": "Victoria"
+  },
+  {
+    "MunicipalityCode": 523,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Aborlan"
+  },
+  {
+    "MunicipalityCode": 524,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Agutaya"
+  },
+  {
+    "MunicipalityCode": 525,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Araceli"
+  },
+  {
+    "MunicipalityCode": 526,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Balabac"
+  },
+  {
+    "MunicipalityCode": 527,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Bataraza"
+  },
+  {
+    "MunicipalityCode": 528,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Brooke'S Point"
+  },
+  {
+    "MunicipalityCode": 529,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Busuanga"
+  },
+  {
+    "MunicipalityCode": 530,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Cagayancillo"
+  },
+  {
+    "MunicipalityCode": 531,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Coron"
+  },
+  {
+    "MunicipalityCode": 532,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Cuyo"
+  },
+  {
+    "MunicipalityCode": 533,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Dumaran"
+  },
+  {
+    "MunicipalityCode": 534,
+    "ProvinceCode": 26,
+    "MunicipalityName": "El Nido"
+  },
+  {
+    "MunicipalityCode": 535,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Linapacan"
+  },
+  {
+    "MunicipalityCode": 536,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Magsaysay"
+  },
+  {
+    "MunicipalityCode": 537,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Narra"
+  },
+  {
+    "MunicipalityCode": 538,
+    "ProvinceCode": 26,
+    "MunicipalityName": "City of Puerto Princesa"
+  },
+  {
+    "MunicipalityCode": 539,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 540,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Roxas"
+  },
+  {
+    "MunicipalityCode": 541,
+    "ProvinceCode": 26,
+    "MunicipalityName": "San Vicente"
+  },
+  {
+    "MunicipalityCode": 542,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Taytay"
+  },
+  {
+    "MunicipalityCode": 543,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Kalayaan"
+  },
+  {
+    "MunicipalityCode": 544,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Culion"
+  },
+  {
+    "MunicipalityCode": 545,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 546,
+    "ProvinceCode": 26,
+    "MunicipalityName": "Sofronio Española"
+  },
+  {
+    "MunicipalityCode": 547,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Alcantara"
+  },
+  {
+    "MunicipalityCode": 548,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Banton"
+  },
+  {
+    "MunicipalityCode": 549,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Cajidiocan"
+  },
+  {
+    "MunicipalityCode": 550,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Calatrava"
+  },
+  {
+    "MunicipalityCode": 551,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Concepcion"
+  },
+  {
+    "MunicipalityCode": 552,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Corcuera"
+  },
+  {
+    "MunicipalityCode": 553,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Looc"
+  },
+  {
+    "MunicipalityCode": 554,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Magdiwang"
+  },
+  {
+    "MunicipalityCode": 555,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Odiongan"
+  },
+  {
+    "MunicipalityCode": 556,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Romblon"
+  },
+  {
+    "MunicipalityCode": 557,
+    "ProvinceCode": 27,
+    "MunicipalityName": "San Agustin"
+  },
+  {
+    "MunicipalityCode": 558,
+    "ProvinceCode": 27,
+    "MunicipalityName": "San Andres"
+  },
+  {
+    "MunicipalityCode": 559,
+    "ProvinceCode": 27,
+    "MunicipalityName": "San Fernando"
+  },
+  {
+    "MunicipalityCode": 560,
+    "ProvinceCode": 27,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 561,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Santa Fe"
+  },
+  {
+    "MunicipalityCode": 562,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Ferrol"
+  },
+  {
+    "MunicipalityCode": 563,
+    "ProvinceCode": 27,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 564,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Bacacay"
+  },
+  {
+    "MunicipalityCode": 565,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Camalig"
+  },
+  {
+    "MunicipalityCode": 566,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Daraga"
+  },
+  {
+    "MunicipalityCode": 567,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Guinobatan"
+  },
+  {
+    "MunicipalityCode": 568,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Jovellar"
+  },
+  {
+    "MunicipalityCode": 569,
+    "ProvinceCode": 28,
+    "MunicipalityName": "City of Legazpi"
+  },
+  {
+    "MunicipalityCode": 570,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Libon"
+  },
+  {
+    "MunicipalityCode": 571,
+    "ProvinceCode": 28,
+    "MunicipalityName": "City of Ligao"
+  },
+  {
+    "MunicipalityCode": 572,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Malilipot"
+  },
+  {
+    "MunicipalityCode": 573,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Malinao"
+  },
+  {
+    "MunicipalityCode": 574,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Manito"
+  },
+  {
+    "MunicipalityCode": 575,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Oas"
+  },
+  {
+    "MunicipalityCode": 576,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Pio Duran"
+  },
+  {
+    "MunicipalityCode": 577,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Polangui"
+  },
+  {
+    "MunicipalityCode": 578,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Rapu-Rapu"
+  },
+  {
+    "MunicipalityCode": 579,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Santo Domingo"
+  },
+  {
+    "MunicipalityCode": 580,
+    "ProvinceCode": 28,
+    "MunicipalityName": "City of Tabaco"
+  },
+  {
+    "MunicipalityCode": 581,
+    "ProvinceCode": 28,
+    "MunicipalityName": "Tiwi"
+  },
+  {
+    "MunicipalityCode": 582,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Basud"
+  },
+  {
+    "MunicipalityCode": 583,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Capalonga"
+  },
+  {
+    "MunicipalityCode": 584,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Daet"
+  },
+  {
+    "MunicipalityCode": 585,
+    "ProvinceCode": 29,
+    "MunicipalityName": "San Lorenzo Ruiz"
+  },
+  {
+    "MunicipalityCode": 586,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Jose Panganiban"
+  },
+  {
+    "MunicipalityCode": 587,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Labo"
+  },
+  {
+    "MunicipalityCode": 588,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Mercedes"
+  },
+  {
+    "MunicipalityCode": 589,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Paracale"
+  },
+  {
+    "MunicipalityCode": 590,
+    "ProvinceCode": 29,
+    "MunicipalityName": "San Vicente"
+  },
+  {
+    "MunicipalityCode": 591,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Santa Elena"
+  },
+  {
+    "MunicipalityCode": 592,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Talisay"
+  },
+  {
+    "MunicipalityCode": 593,
+    "ProvinceCode": 29,
+    "MunicipalityName": "Vinzons"
+  },
+  {
+    "MunicipalityCode": 594,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Baao"
+  },
+  {
+    "MunicipalityCode": 595,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Balatan"
+  },
+  {
+    "MunicipalityCode": 596,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Bato"
+  },
+  {
+    "MunicipalityCode": 597,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Bombon"
+  },
+  {
+    "MunicipalityCode": 598,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Buhi"
+  },
+  {
+    "MunicipalityCode": 599,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Bula"
+  },
+  {
+    "MunicipalityCode": 600,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Cabusao"
+  },
+  {
+    "MunicipalityCode": 601,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Calabanga"
+  },
+  {
+    "MunicipalityCode": 602,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Camaligan"
+  },
+  {
+    "MunicipalityCode": 603,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Canaman"
+  },
+  {
+    "MunicipalityCode": 604,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Caramoan"
+  },
+  {
+    "MunicipalityCode": 605,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Del Gallego"
+  },
+  {
+    "MunicipalityCode": 606,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Gainza"
+  },
+  {
+    "MunicipalityCode": 607,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Garchitorena"
+  },
+  {
+    "MunicipalityCode": 608,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Goa"
+  },
+  {
+    "MunicipalityCode": 609,
+    "ProvinceCode": 30,
+    "MunicipalityName": "City of Iriga"
+  },
+  {
+    "MunicipalityCode": 610,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Lagonoy"
+  },
+  {
+    "MunicipalityCode": 611,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Libmanan"
+  },
+  {
+    "MunicipalityCode": 612,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Lupi"
+  },
+  {
+    "MunicipalityCode": 613,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Magarao"
+  },
+  {
+    "MunicipalityCode": 614,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Milaor"
+  },
+  {
+    "MunicipalityCode": 615,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Minalabac"
+  },
+  {
+    "MunicipalityCode": 616,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Nabua"
+  },
+  {
+    "MunicipalityCode": 617,
+    "ProvinceCode": 30,
+    "MunicipalityName": "City of Naga"
+  },
+  {
+    "MunicipalityCode": 618,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Ocampo"
+  },
+  {
+    "MunicipalityCode": 619,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Pamplona"
+  },
+  {
+    "MunicipalityCode": 620,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Pasacao"
+  },
+  {
+    "MunicipalityCode": 621,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Pili"
+  },
+  {
+    "MunicipalityCode": 622,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Presentacion"
+  },
+  {
+    "MunicipalityCode": 623,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Ragay"
+  },
+  {
+    "MunicipalityCode": 624,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Sagñay"
+  },
+  {
+    "MunicipalityCode": 625,
+    "ProvinceCode": 30,
+    "MunicipalityName": "San Fernando"
+  },
+  {
+    "MunicipalityCode": 626,
+    "ProvinceCode": 30,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 627,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Sipocot"
+  },
+  {
+    "MunicipalityCode": 628,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Siruma"
+  },
+  {
+    "MunicipalityCode": 629,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Tigaon"
+  },
+  {
+    "MunicipalityCode": 630,
+    "ProvinceCode": 30,
+    "MunicipalityName": "Tinambac"
+  },
+  {
+    "MunicipalityCode": 631,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Bagamanoc"
+  },
+  {
+    "MunicipalityCode": 632,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Baras"
+  },
+  {
+    "MunicipalityCode": 633,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Bato"
+  },
+  {
+    "MunicipalityCode": 634,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Caramoran"
+  },
+  {
+    "MunicipalityCode": 635,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Gigmoto"
+  },
+  {
+    "MunicipalityCode": 636,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Pandan"
+  },
+  {
+    "MunicipalityCode": 637,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Panganiban"
+  },
+  {
+    "MunicipalityCode": 638,
+    "ProvinceCode": 31,
+    "MunicipalityName": "San Andres"
+  },
+  {
+    "MunicipalityCode": 639,
+    "ProvinceCode": 31,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 640,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Viga"
+  },
+  {
+    "MunicipalityCode": 641,
+    "ProvinceCode": 31,
+    "MunicipalityName": "Virac"
+  },
+  {
+    "MunicipalityCode": 642,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Aroroy"
+  },
+  {
+    "MunicipalityCode": 643,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Baleno"
+  },
+  {
+    "MunicipalityCode": 644,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Balud"
+  },
+  {
+    "MunicipalityCode": 645,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Batuan"
+  },
+  {
+    "MunicipalityCode": 646,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Cataingan"
+  },
+  {
+    "MunicipalityCode": 647,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Cawayan"
+  },
+  {
+    "MunicipalityCode": 648,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Claveria"
+  },
+  {
+    "MunicipalityCode": 649,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Dimasalang"
+  },
+  {
+    "MunicipalityCode": 650,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Esperanza"
+  },
+  {
+    "MunicipalityCode": 651,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Mandaon"
+  },
+  {
+    "MunicipalityCode": 652,
+    "ProvinceCode": 32,
+    "MunicipalityName": "City of Masbate"
+  },
+  {
+    "MunicipalityCode": 653,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Milagros"
+  },
+  {
+    "MunicipalityCode": 654,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Mobo"
+  },
+  {
+    "MunicipalityCode": 655,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Monreal"
+  },
+  {
+    "MunicipalityCode": 656,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Palanas"
+  },
+  {
+    "MunicipalityCode": 657,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Pio V. Corpuz"
+  },
+  {
+    "MunicipalityCode": 658,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Placer"
+  },
+  {
+    "MunicipalityCode": 659,
+    "ProvinceCode": 32,
+    "MunicipalityName": "San Fernando"
+  },
+  {
+    "MunicipalityCode": 660,
+    "ProvinceCode": 32,
+    "MunicipalityName": "San Jacinto"
+  },
+  {
+    "MunicipalityCode": 661,
+    "ProvinceCode": 32,
+    "MunicipalityName": "San Pascual"
+  },
+  {
+    "MunicipalityCode": 662,
+    "ProvinceCode": 32,
+    "MunicipalityName": "Uson"
+  },
+  {
+    "MunicipalityCode": 663,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Barcelona"
+  },
+  {
+    "MunicipalityCode": 664,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Bulan"
+  },
+  {
+    "MunicipalityCode": 665,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Bulusan"
+  },
+  {
+    "MunicipalityCode": 666,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Casiguran"
+  },
+  {
+    "MunicipalityCode": 667,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Castilla"
+  },
+  {
+    "MunicipalityCode": 668,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Donsol"
+  },
+  {
+    "MunicipalityCode": 669,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Gubat"
+  },
+  {
+    "MunicipalityCode": 670,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Irosin"
+  },
+  {
+    "MunicipalityCode": 671,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Juban"
+  },
+  {
+    "MunicipalityCode": 672,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Magallanes"
+  },
+  {
+    "MunicipalityCode": 673,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Matnog"
+  },
+  {
+    "MunicipalityCode": 674,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 675,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Prieto Diaz"
+  },
+  {
+    "MunicipalityCode": 676,
+    "ProvinceCode": 33,
+    "MunicipalityName": "Santa Magdalena"
+  },
+  {
+    "MunicipalityCode": 677,
+    "ProvinceCode": 33,
+    "MunicipalityName": "City of Sorsogon"
+  },
+  {
+    "MunicipalityCode": 678,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Altavas"
+  },
+  {
+    "MunicipalityCode": 679,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Balete"
+  },
+  {
+    "MunicipalityCode": 680,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Banga"
+  },
+  {
+    "MunicipalityCode": 681,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Batan"
+  },
+  {
+    "MunicipalityCode": 682,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Buruanga"
+  },
+  {
+    "MunicipalityCode": 683,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Ibajay"
+  },
+  {
+    "MunicipalityCode": 684,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Kalibo"
+  },
+  {
+    "MunicipalityCode": 685,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Lezo"
+  },
+  {
+    "MunicipalityCode": 686,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Libacao"
+  },
+  {
+    "MunicipalityCode": 687,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Madalag"
+  },
+  {
+    "MunicipalityCode": 688,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Makato"
+  },
+  {
+    "MunicipalityCode": 689,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Malay"
+  },
+  {
+    "MunicipalityCode": 690,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Malinao"
+  },
+  {
+    "MunicipalityCode": 691,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Nabas"
+  },
+  {
+    "MunicipalityCode": 692,
+    "ProvinceCode": 34,
+    "MunicipalityName": "New Washington"
+  },
+  {
+    "MunicipalityCode": 693,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Numancia"
+  },
+  {
+    "MunicipalityCode": 694,
+    "ProvinceCode": 34,
+    "MunicipalityName": "Tangalan"
+  },
+  {
+    "MunicipalityCode": 695,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Anini-Y"
+  },
+  {
+    "MunicipalityCode": 696,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Barbaza"
+  },
+  {
+    "MunicipalityCode": 697,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Belison"
+  },
+  {
+    "MunicipalityCode": 698,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Bugasong"
+  },
+  {
+    "MunicipalityCode": 699,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Caluya"
+  },
+  {
+    "MunicipalityCode": 700,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Culasi"
+  },
+  {
+    "MunicipalityCode": 701,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Tobias Fornier"
+  },
+  {
+    "MunicipalityCode": 702,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Hamtic"
+  },
+  {
+    "MunicipalityCode": 703,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Laua-An"
+  },
+  {
+    "MunicipalityCode": 704,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Libertad"
+  },
+  {
+    "MunicipalityCode": 705,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Pandan"
+  },
+  {
+    "MunicipalityCode": 706,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Patnongon"
+  },
+  {
+    "MunicipalityCode": 707,
+    "ProvinceCode": 35,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 708,
+    "ProvinceCode": 35,
+    "MunicipalityName": "San Remigio"
+  },
+  {
+    "MunicipalityCode": 709,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Sebaste"
+  },
+  {
+    "MunicipalityCode": 710,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Sibalom"
+  },
+  {
+    "MunicipalityCode": 711,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Tibiao"
+  },
+  {
+    "MunicipalityCode": 712,
+    "ProvinceCode": 35,
+    "MunicipalityName": "Valderrama"
+  },
+  {
+    "MunicipalityCode": 713,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Cuartero"
+  },
+  {
+    "MunicipalityCode": 714,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Dao"
+  },
+  {
+    "MunicipalityCode": 715,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Dumalag"
+  },
+  {
+    "MunicipalityCode": 716,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Dumarao"
+  },
+  {
+    "MunicipalityCode": 717,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Ivisan"
+  },
+  {
+    "MunicipalityCode": 718,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Jamindan"
+  },
+  {
+    "MunicipalityCode": 719,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Ma-Ayon"
+  },
+  {
+    "MunicipalityCode": 720,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Mambusao"
+  },
+  {
+    "MunicipalityCode": 721,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Panay"
+  },
+  {
+    "MunicipalityCode": 722,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Panitan"
+  },
+  {
+    "MunicipalityCode": 723,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 724,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Pontevedra"
+  },
+  {
+    "MunicipalityCode": 725,
+    "ProvinceCode": 36,
+    "MunicipalityName": "President Roxas"
+  },
+  {
+    "MunicipalityCode": 726,
+    "ProvinceCode": 36,
+    "MunicipalityName": "City of Roxas"
+  },
+  {
+    "MunicipalityCode": 727,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Sapi-An"
+  },
+  {
+    "MunicipalityCode": 728,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Sigma"
+  },
+  {
+    "MunicipalityCode": 729,
+    "ProvinceCode": 36,
+    "MunicipalityName": "Tapaz"
+  },
+  {
+    "MunicipalityCode": 730,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Ajuy"
+  },
+  {
+    "MunicipalityCode": 731,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Alimodian"
+  },
+  {
+    "MunicipalityCode": 732,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Anilao"
+  },
+  {
+    "MunicipalityCode": 733,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Badiangan"
+  },
+  {
+    "MunicipalityCode": 734,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Balasan"
+  },
+  {
+    "MunicipalityCode": 735,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Banate"
+  },
+  {
+    "MunicipalityCode": 736,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Barotac Nuevo"
+  },
+  {
+    "MunicipalityCode": 737,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Barotac Viejo"
+  },
+  {
+    "MunicipalityCode": 738,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Batad"
+  },
+  {
+    "MunicipalityCode": 739,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Bingawan"
+  },
+  {
+    "MunicipalityCode": 740,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Cabatuan"
+  },
+  {
+    "MunicipalityCode": 741,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Calinog"
+  },
+  {
+    "MunicipalityCode": 742,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Carles"
+  },
+  {
+    "MunicipalityCode": 743,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Concepcion"
+  },
+  {
+    "MunicipalityCode": 744,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Dingle"
+  },
+  {
+    "MunicipalityCode": 745,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Dueñas"
+  },
+  {
+    "MunicipalityCode": 746,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Dumangas"
+  },
+  {
+    "MunicipalityCode": 747,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Estancia"
+  },
+  {
+    "MunicipalityCode": 748,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Guimbal"
+  },
+  {
+    "MunicipalityCode": 749,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Igbaras"
+  },
+  {
+    "MunicipalityCode": 750,
+    "ProvinceCode": 37,
+    "MunicipalityName": "City of Iloilo"
+  },
+  {
+    "MunicipalityCode": 751,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Janiuay"
+  },
+  {
+    "MunicipalityCode": 752,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Lambunao"
+  },
+  {
+    "MunicipalityCode": 753,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Leganes"
+  },
+  {
+    "MunicipalityCode": 754,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Lemery"
+  },
+  {
+    "MunicipalityCode": 755,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Leon"
+  },
+  {
+    "MunicipalityCode": 756,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Maasin"
+  },
+  {
+    "MunicipalityCode": 757,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Miagao"
+  },
+  {
+    "MunicipalityCode": 758,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Mina"
+  },
+  {
+    "MunicipalityCode": 759,
+    "ProvinceCode": 37,
+    "MunicipalityName": "New Lucena"
+  },
+  {
+    "MunicipalityCode": 760,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Oton"
+  },
+  {
+    "MunicipalityCode": 761,
+    "ProvinceCode": 37,
+    "MunicipalityName": "City of Passi"
+  },
+  {
+    "MunicipalityCode": 762,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Pavia"
+  },
+  {
+    "MunicipalityCode": 763,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Pototan"
+  },
+  {
+    "MunicipalityCode": 764,
+    "ProvinceCode": 37,
+    "MunicipalityName": "San Dionisio"
+  },
+  {
+    "MunicipalityCode": 765,
+    "ProvinceCode": 37,
+    "MunicipalityName": "San Enrique"
+  },
+  {
+    "MunicipalityCode": 766,
+    "ProvinceCode": 37,
+    "MunicipalityName": "San Joaquin"
+  },
+  {
+    "MunicipalityCode": 767,
+    "ProvinceCode": 37,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 768,
+    "ProvinceCode": 37,
+    "MunicipalityName": "San Rafael"
+  },
+  {
+    "MunicipalityCode": 769,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Santa Barbara"
+  },
+  {
+    "MunicipalityCode": 770,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Sara"
+  },
+  {
+    "MunicipalityCode": 771,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Tigbauan"
+  },
+  {
+    "MunicipalityCode": 772,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Tubungan"
+  },
+  {
+    "MunicipalityCode": 773,
+    "ProvinceCode": 37,
+    "MunicipalityName": "Zarraga"
+  },
+  {
+    "MunicipalityCode": 774,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Bacolod"
+  },
+  {
+    "MunicipalityCode": 775,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Bago"
+  },
+  {
+    "MunicipalityCode": 776,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Binalbagan"
+  },
+  {
+    "MunicipalityCode": 777,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Cadiz"
+  },
+  {
+    "MunicipalityCode": 778,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Calatrava"
+  },
+  {
+    "MunicipalityCode": 779,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Candoni"
+  },
+  {
+    "MunicipalityCode": 780,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Cauayan"
+  },
+  {
+    "MunicipalityCode": 781,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Enrique B. Magalona"
+  },
+  {
+    "MunicipalityCode": 782,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Escalante"
+  },
+  {
+    "MunicipalityCode": 783,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Himamaylan"
+  },
+  {
+    "MunicipalityCode": 784,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Hinigaran"
+  },
+  {
+    "MunicipalityCode": 785,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Hinoba-an"
+  },
+  {
+    "MunicipalityCode": 786,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Ilog"
+  },
+  {
+    "MunicipalityCode": 787,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Isabela"
+  },
+  {
+    "MunicipalityCode": 788,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Kabankalan"
+  },
+  {
+    "MunicipalityCode": 789,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of La Carlota"
+  },
+  {
+    "MunicipalityCode": 790,
+    "ProvinceCode": 38,
+    "MunicipalityName": "La Castellana"
+  },
+  {
+    "MunicipalityCode": 791,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Manapla"
+  },
+  {
+    "MunicipalityCode": 792,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Moises Padilla"
+  },
+  {
+    "MunicipalityCode": 793,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Murcia"
+  },
+  {
+    "MunicipalityCode": 794,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Pontevedra"
+  },
+  {
+    "MunicipalityCode": 795,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Pulupandan"
+  },
+  {
+    "MunicipalityCode": 796,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Sagay"
+  },
+  {
+    "MunicipalityCode": 797,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of San Carlos"
+  },
+  {
+    "MunicipalityCode": 798,
+    "ProvinceCode": 38,
+    "MunicipalityName": "San Enrique"
+  },
+  {
+    "MunicipalityCode": 799,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Silay"
+  },
+  {
+    "MunicipalityCode": 800,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Sipalay"
+  },
+  {
+    "MunicipalityCode": 801,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Talisay"
+  },
+  {
+    "MunicipalityCode": 802,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Toboso"
+  },
+  {
+    "MunicipalityCode": 803,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Valladolid"
+  },
+  {
+    "MunicipalityCode": 804,
+    "ProvinceCode": 38,
+    "MunicipalityName": "City of Victorias"
+  },
+  {
+    "MunicipalityCode": 805,
+    "ProvinceCode": 38,
+    "MunicipalityName": "Salvador Benedicto"
+  },
+  {
+    "MunicipalityCode": 806,
+    "ProvinceCode": 39,
+    "MunicipalityName": "Buenavista"
+  },
+  {
+    "MunicipalityCode": 807,
+    "ProvinceCode": 39,
+    "MunicipalityName": "Jordan"
+  },
+  {
+    "MunicipalityCode": 808,
+    "ProvinceCode": 39,
+    "MunicipalityName": "Nueva Valencia"
+  },
+  {
+    "MunicipalityCode": 809,
+    "ProvinceCode": 39,
+    "MunicipalityName": "San Lorenzo"
+  },
+  {
+    "MunicipalityCode": 810,
+    "ProvinceCode": 39,
+    "MunicipalityName": "Sibunag"
+  },
+  {
+    "MunicipalityCode": 811,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Alburquerque"
+  },
+  {
+    "MunicipalityCode": 812,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Alicia"
+  },
+  {
+    "MunicipalityCode": 813,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Anda"
+  },
+  {
+    "MunicipalityCode": 814,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Antequera"
+  },
+  {
+    "MunicipalityCode": 815,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Baclayon"
+  },
+  {
+    "MunicipalityCode": 816,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Balilihan"
+  },
+  {
+    "MunicipalityCode": 817,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Batuan"
+  },
+  {
+    "MunicipalityCode": 818,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Bilar"
+  },
+  {
+    "MunicipalityCode": 819,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Buenavista"
+  },
+  {
+    "MunicipalityCode": 820,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Calape"
+  },
+  {
+    "MunicipalityCode": 821,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Candijay"
+  },
+  {
+    "MunicipalityCode": 822,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 823,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Catigbian"
+  },
+  {
+    "MunicipalityCode": 824,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Clarin"
+  },
+  {
+    "MunicipalityCode": 825,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Corella"
+  },
+  {
+    "MunicipalityCode": 826,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Cortes"
+  },
+  {
+    "MunicipalityCode": 827,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Dagohoy"
+  },
+  {
+    "MunicipalityCode": 828,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Danao"
+  },
+  {
+    "MunicipalityCode": 829,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Dauis"
+  },
+  {
+    "MunicipalityCode": 830,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Dimiao"
+  },
+  {
+    "MunicipalityCode": 831,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Duero"
+  },
+  {
+    "MunicipalityCode": 832,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Garcia Hernandez"
+  },
+  {
+    "MunicipalityCode": 833,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Guindulman"
+  },
+  {
+    "MunicipalityCode": 834,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Inabanga"
+  },
+  {
+    "MunicipalityCode": 835,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Jagna"
+  },
+  {
+    "MunicipalityCode": 836,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Getafe"
+  },
+  {
+    "MunicipalityCode": 837,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Lila"
+  },
+  {
+    "MunicipalityCode": 838,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Loay"
+  },
+  {
+    "MunicipalityCode": 839,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Loboc"
+  },
+  {
+    "MunicipalityCode": 840,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Loon"
+  },
+  {
+    "MunicipalityCode": 841,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Mabini"
+  },
+  {
+    "MunicipalityCode": 842,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Maribojoc"
+  },
+  {
+    "MunicipalityCode": 843,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Panglao"
+  },
+  {
+    "MunicipalityCode": 844,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 845,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Pres. Carlos P. Garcia"
+  },
+  {
+    "MunicipalityCode": 846,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Sagbayan"
+  },
+  {
+    "MunicipalityCode": 847,
+    "ProvinceCode": 40,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 848,
+    "ProvinceCode": 40,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 849,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Sevilla"
+  },
+  {
+    "MunicipalityCode": 850,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Sierra Bullones"
+  },
+  {
+    "MunicipalityCode": 851,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Sikatuna"
+  },
+  {
+    "MunicipalityCode": 852,
+    "ProvinceCode": 40,
+    "MunicipalityName": "City of Tagbilaran"
+  },
+  {
+    "MunicipalityCode": 853,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Talibon"
+  },
+  {
+    "MunicipalityCode": 854,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Trinidad"
+  },
+  {
+    "MunicipalityCode": 855,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Tubigon"
+  },
+  {
+    "MunicipalityCode": 856,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Ubay"
+  },
+  {
+    "MunicipalityCode": 857,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Valencia"
+  },
+  {
+    "MunicipalityCode": 858,
+    "ProvinceCode": 40,
+    "MunicipalityName": "Bien Unido"
+  },
+  {
+    "MunicipalityCode": 859,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Alcantara"
+  },
+  {
+    "MunicipalityCode": 860,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Alcoy"
+  },
+  {
+    "MunicipalityCode": 861,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Alegria"
+  },
+  {
+    "MunicipalityCode": 862,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Aloguinsan"
+  },
+  {
+    "MunicipalityCode": 863,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Argao"
+  },
+  {
+    "MunicipalityCode": 864,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Asturias"
+  },
+  {
+    "MunicipalityCode": 865,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Badian"
+  },
+  {
+    "MunicipalityCode": 866,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Balamban"
+  },
+  {
+    "MunicipalityCode": 867,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Bantayan"
+  },
+  {
+    "MunicipalityCode": 868,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Barili"
+  },
+  {
+    "MunicipalityCode": 869,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Bogo"
+  },
+  {
+    "MunicipalityCode": 870,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Boljoon"
+  },
+  {
+    "MunicipalityCode": 871,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Borbon"
+  },
+  {
+    "MunicipalityCode": 872,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Carcar"
+  },
+  {
+    "MunicipalityCode": 873,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 874,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Catmon"
+  },
+  {
+    "MunicipalityCode": 875,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Cebu"
+  },
+  {
+    "MunicipalityCode": 876,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Compostela"
+  },
+  {
+    "MunicipalityCode": 877,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Consolacion"
+  },
+  {
+    "MunicipalityCode": 878,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Cordova"
+  },
+  {
+    "MunicipalityCode": 879,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Daanbantayan"
+  },
+  {
+    "MunicipalityCode": 880,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Dalaguete"
+  },
+  {
+    "MunicipalityCode": 881,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Danao City"
+  },
+  {
+    "MunicipalityCode": 882,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Dumanjug"
+  },
+  {
+    "MunicipalityCode": 883,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Ginatilan"
+  },
+  {
+    "MunicipalityCode": 884,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Lapu-Lapu"
+  },
+  {
+    "MunicipalityCode": 885,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Liloan"
+  },
+  {
+    "MunicipalityCode": 886,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Madridejos"
+  },
+  {
+    "MunicipalityCode": 887,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Malabuyoc"
+  },
+  {
+    "MunicipalityCode": 888,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Mandaue"
+  },
+  {
+    "MunicipalityCode": 889,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Medellin"
+  },
+  {
+    "MunicipalityCode": 890,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Minglanilla"
+  },
+  {
+    "MunicipalityCode": 891,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Moalboal"
+  },
+  {
+    "MunicipalityCode": 892,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Naga"
+  },
+  {
+    "MunicipalityCode": 893,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Oslob"
+  },
+  {
+    "MunicipalityCode": 894,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 895,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Pinamungajan"
+  },
+  {
+    "MunicipalityCode": 896,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Poro"
+  },
+  {
+    "MunicipalityCode": 897,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Ronda"
+  },
+  {
+    "MunicipalityCode": 898,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Samboan"
+  },
+  {
+    "MunicipalityCode": 899,
+    "ProvinceCode": 41,
+    "MunicipalityName": "San Fernando"
+  },
+  {
+    "MunicipalityCode": 900,
+    "ProvinceCode": 41,
+    "MunicipalityName": "San Francisco"
+  },
+  {
+    "MunicipalityCode": 901,
+    "ProvinceCode": 41,
+    "MunicipalityName": "San Remigio"
+  },
+  {
+    "MunicipalityCode": 902,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Santa Fe"
+  },
+  {
+    "MunicipalityCode": 903,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Santander"
+  },
+  {
+    "MunicipalityCode": 904,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Sibonga"
+  },
+  {
+    "MunicipalityCode": 905,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Sogod"
+  },
+  {
+    "MunicipalityCode": 906,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Tabogon"
+  },
+  {
+    "MunicipalityCode": 907,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Tabuelan"
+  },
+  {
+    "MunicipalityCode": 908,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Talisay"
+  },
+  {
+    "MunicipalityCode": 909,
+    "ProvinceCode": 41,
+    "MunicipalityName": "City of Toledo"
+  },
+  {
+    "MunicipalityCode": 910,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Tuburan"
+  },
+  {
+    "MunicipalityCode": 911,
+    "ProvinceCode": 41,
+    "MunicipalityName": "Tudela"
+  },
+  {
+    "MunicipalityCode": 912,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Amlan"
+  },
+  {
+    "MunicipalityCode": 913,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Ayungon"
+  },
+  {
+    "MunicipalityCode": 914,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Bacong"
+  },
+  {
+    "MunicipalityCode": 915,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Bais"
+  },
+  {
+    "MunicipalityCode": 916,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Basay"
+  },
+  {
+    "MunicipalityCode": 917,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Bayawan"
+  },
+  {
+    "MunicipalityCode": 918,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Bindoy"
+  },
+  {
+    "MunicipalityCode": 919,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Canlaon"
+  },
+  {
+    "MunicipalityCode": 920,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Dauin"
+  },
+  {
+    "MunicipalityCode": 921,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Dumaguete"
+  },
+  {
+    "MunicipalityCode": 922,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Guihulngan"
+  },
+  {
+    "MunicipalityCode": 923,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Jimalalud"
+  },
+  {
+    "MunicipalityCode": 924,
+    "ProvinceCode": 42,
+    "MunicipalityName": "La Libertad"
+  },
+  {
+    "MunicipalityCode": 925,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Mabinay"
+  },
+  {
+    "MunicipalityCode": 926,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Manjuyod"
+  },
+  {
+    "MunicipalityCode": 927,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Pamplona"
+  },
+  {
+    "MunicipalityCode": 928,
+    "ProvinceCode": 42,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 929,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Santa Catalina"
+  },
+  {
+    "MunicipalityCode": 930,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Siaton"
+  },
+  {
+    "MunicipalityCode": 931,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Sibulan"
+  },
+  {
+    "MunicipalityCode": 932,
+    "ProvinceCode": 42,
+    "MunicipalityName": "City of Tanjay"
+  },
+  {
+    "MunicipalityCode": 933,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Tayasan"
+  },
+  {
+    "MunicipalityCode": 934,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Valencia"
+  },
+  {
+    "MunicipalityCode": 935,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Vallehermoso"
+  },
+  {
+    "MunicipalityCode": 936,
+    "ProvinceCode": 42,
+    "MunicipalityName": "Zamboanguita"
+  },
+  {
+    "MunicipalityCode": 937,
+    "ProvinceCode": 43,
+    "MunicipalityName": "Enrique Villanueva"
+  },
+  {
+    "MunicipalityCode": 938,
+    "ProvinceCode": 43,
+    "MunicipalityName": "Larena"
+  },
+  {
+    "MunicipalityCode": 939,
+    "ProvinceCode": 43,
+    "MunicipalityName": "Lazi"
+  },
+  {
+    "MunicipalityCode": 940,
+    "ProvinceCode": 43,
+    "MunicipalityName": "Maria"
+  },
+  {
+    "MunicipalityCode": 941,
+    "ProvinceCode": 43,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 942,
+    "ProvinceCode": 43,
+    "MunicipalityName": "Siquijor"
+  },
+  {
+    "MunicipalityCode": 943,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Arteche"
+  },
+  {
+    "MunicipalityCode": 944,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Balangiga"
+  },
+  {
+    "MunicipalityCode": 945,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Balangkayan"
+  },
+  {
+    "MunicipalityCode": 946,
+    "ProvinceCode": 44,
+    "MunicipalityName": "City of Borongan"
+  },
+  {
+    "MunicipalityCode": 947,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Can-Avid"
+  },
+  {
+    "MunicipalityCode": 948,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Dolores"
+  },
+  {
+    "MunicipalityCode": 949,
+    "ProvinceCode": 44,
+    "MunicipalityName": "General Macarthur"
+  },
+  {
+    "MunicipalityCode": 950,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Giporlos"
+  },
+  {
+    "MunicipalityCode": 951,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Guiuan"
+  },
+  {
+    "MunicipalityCode": 952,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Hernani"
+  },
+  {
+    "MunicipalityCode": 953,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Jipapad"
+  },
+  {
+    "MunicipalityCode": 954,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Lawaan"
+  },
+  {
+    "MunicipalityCode": 955,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Llorente"
+  },
+  {
+    "MunicipalityCode": 956,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Maslog"
+  },
+  {
+    "MunicipalityCode": 957,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Maydolong"
+  },
+  {
+    "MunicipalityCode": 958,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Mercedes"
+  },
+  {
+    "MunicipalityCode": 959,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Oras"
+  },
+  {
+    "MunicipalityCode": 960,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Quinapondan"
+  },
+  {
+    "MunicipalityCode": 961,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Salcedo"
+  },
+  {
+    "MunicipalityCode": 962,
+    "ProvinceCode": 44,
+    "MunicipalityName": "San Julian"
+  },
+  {
+    "MunicipalityCode": 963,
+    "ProvinceCode": 44,
+    "MunicipalityName": "San Policarpo"
+  },
+  {
+    "MunicipalityCode": 964,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Sulat"
+  },
+  {
+    "MunicipalityCode": 965,
+    "ProvinceCode": 44,
+    "MunicipalityName": "Taft"
+  },
+  {
+    "MunicipalityCode": 966,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Abuyog"
+  },
+  {
+    "MunicipalityCode": 967,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Alangalang"
+  },
+  {
+    "MunicipalityCode": 968,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Albuera"
+  },
+  {
+    "MunicipalityCode": 969,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Babatngon"
+  },
+  {
+    "MunicipalityCode": 970,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Barugo"
+  },
+  {
+    "MunicipalityCode": 971,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Bato"
+  },
+  {
+    "MunicipalityCode": 972,
+    "ProvinceCode": 45,
+    "MunicipalityName": "City of Baybay"
+  },
+  {
+    "MunicipalityCode": 973,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Burauen"
+  },
+  {
+    "MunicipalityCode": 974,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Calubian"
+  },
+  {
+    "MunicipalityCode": 975,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Capoocan"
+  },
+  {
+    "MunicipalityCode": 976,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Carigara"
+  },
+  {
+    "MunicipalityCode": 977,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Dagami"
+  },
+  {
+    "MunicipalityCode": 978,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Dulag"
+  },
+  {
+    "MunicipalityCode": 979,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Hilongos"
+  },
+  {
+    "MunicipalityCode": 980,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Hindang"
+  },
+  {
+    "MunicipalityCode": 981,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Inopacan"
+  },
+  {
+    "MunicipalityCode": 982,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Isabel"
+  },
+  {
+    "MunicipalityCode": 983,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Jaro"
+  },
+  {
+    "MunicipalityCode": 984,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Javier"
+  },
+  {
+    "MunicipalityCode": 985,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Julita"
+  },
+  {
+    "MunicipalityCode": 986,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Kananga"
+  },
+  {
+    "MunicipalityCode": 987,
+    "ProvinceCode": 45,
+    "MunicipalityName": "La Paz"
+  },
+  {
+    "MunicipalityCode": 988,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Leyte"
+  },
+  {
+    "MunicipalityCode": 989,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Macarthur"
+  },
+  {
+    "MunicipalityCode": 990,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Mahaplag"
+  },
+  {
+    "MunicipalityCode": 991,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Matag-Ob"
+  },
+  {
+    "MunicipalityCode": 992,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Matalom"
+  },
+  {
+    "MunicipalityCode": 993,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Mayorga"
+  },
+  {
+    "MunicipalityCode": 994,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Merida"
+  },
+  {
+    "MunicipalityCode": 995,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Ormoc City"
+  },
+  {
+    "MunicipalityCode": 996,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Palo"
+  },
+  {
+    "MunicipalityCode": 997,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Palompon"
+  },
+  {
+    "MunicipalityCode": 998,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Pastrana"
+  },
+  {
+    "MunicipalityCode": 999,
+    "ProvinceCode": 45,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1000,
+    "ProvinceCode": 45,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 1001,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Santa Fe"
+  },
+  {
+    "MunicipalityCode": 1002,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Tabango"
+  },
+  {
+    "MunicipalityCode": 1003,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Tabontabon"
+  },
+  {
+    "MunicipalityCode": 1004,
+    "ProvinceCode": 45,
+    "MunicipalityName": "City of Tacloban"
+  },
+  {
+    "MunicipalityCode": 1005,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Tanauan"
+  },
+  {
+    "MunicipalityCode": 1006,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Tolosa"
+  },
+  {
+    "MunicipalityCode": 1007,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Tunga"
+  },
+  {
+    "MunicipalityCode": 1008,
+    "ProvinceCode": 45,
+    "MunicipalityName": "Villaba"
+  },
+  {
+    "MunicipalityCode": 1009,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Allen"
+  },
+  {
+    "MunicipalityCode": 1010,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Biri"
+  },
+  {
+    "MunicipalityCode": 1011,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Bobon"
+  },
+  {
+    "MunicipalityCode": 1012,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Capul"
+  },
+  {
+    "MunicipalityCode": 1013,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Catarman"
+  },
+  {
+    "MunicipalityCode": 1014,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Catubig"
+  },
+  {
+    "MunicipalityCode": 1015,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Gamay"
+  },
+  {
+    "MunicipalityCode": 1016,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Laoang"
+  },
+  {
+    "MunicipalityCode": 1017,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Lapinig"
+  },
+  {
+    "MunicipalityCode": 1018,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Las Navas"
+  },
+  {
+    "MunicipalityCode": 1019,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Lavezares"
+  },
+  {
+    "MunicipalityCode": 1020,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Mapanas"
+  },
+  {
+    "MunicipalityCode": 1021,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Mondragon"
+  },
+  {
+    "MunicipalityCode": 1022,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Palapag"
+  },
+  {
+    "MunicipalityCode": 1023,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Pambujan"
+  },
+  {
+    "MunicipalityCode": 1024,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Rosario"
+  },
+  {
+    "MunicipalityCode": 1025,
+    "ProvinceCode": 46,
+    "MunicipalityName": "San Antonio"
+  },
+  {
+    "MunicipalityCode": 1026,
+    "ProvinceCode": 46,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1027,
+    "ProvinceCode": 46,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 1028,
+    "ProvinceCode": 46,
+    "MunicipalityName": "San Roque"
+  },
+  {
+    "MunicipalityCode": 1029,
+    "ProvinceCode": 46,
+    "MunicipalityName": "San Vicente"
+  },
+  {
+    "MunicipalityCode": 1030,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Silvino Lobos"
+  },
+  {
+    "MunicipalityCode": 1031,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Victoria"
+  },
+  {
+    "MunicipalityCode": 1032,
+    "ProvinceCode": 46,
+    "MunicipalityName": "Lope De Vega"
+  },
+  {
+    "MunicipalityCode": 1033,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Almagro"
+  },
+  {
+    "MunicipalityCode": 1034,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Basey"
+  },
+  {
+    "MunicipalityCode": 1035,
+    "ProvinceCode": 47,
+    "MunicipalityName": "City of Calbayog"
+  },
+  {
+    "MunicipalityCode": 1036,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Calbiga"
+  },
+  {
+    "MunicipalityCode": 1037,
+    "ProvinceCode": 47,
+    "MunicipalityName": "City of Catbalogan"
+  },
+  {
+    "MunicipalityCode": 1038,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Daram"
+  },
+  {
+    "MunicipalityCode": 1039,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Gandara"
+  },
+  {
+    "MunicipalityCode": 1040,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Hinabangan"
+  },
+  {
+    "MunicipalityCode": 1041,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Jiabong"
+  },
+  {
+    "MunicipalityCode": 1042,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Marabut"
+  },
+  {
+    "MunicipalityCode": 1043,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Matuguinao"
+  },
+  {
+    "MunicipalityCode": 1044,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Motiong"
+  },
+  {
+    "MunicipalityCode": 1045,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Pinabacdao"
+  },
+  {
+    "MunicipalityCode": 1046,
+    "ProvinceCode": 47,
+    "MunicipalityName": "San Jose De Buan"
+  },
+  {
+    "MunicipalityCode": 1047,
+    "ProvinceCode": 47,
+    "MunicipalityName": "San Sebastian"
+  },
+  {
+    "MunicipalityCode": 1048,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Santa Margarita"
+  },
+  {
+    "MunicipalityCode": 1049,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Santa Rita"
+  },
+  {
+    "MunicipalityCode": 1050,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Santo Niño"
+  },
+  {
+    "MunicipalityCode": 1051,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Talalora"
+  },
+  {
+    "MunicipalityCode": 1052,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Tarangnan"
+  },
+  {
+    "MunicipalityCode": 1053,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Villareal"
+  },
+  {
+    "MunicipalityCode": 1054,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Paranas"
+  },
+  {
+    "MunicipalityCode": 1055,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Zumarraga"
+  },
+  {
+    "MunicipalityCode": 1056,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Tagapul-An"
+  },
+  {
+    "MunicipalityCode": 1057,
+    "ProvinceCode": 47,
+    "MunicipalityName": "San Jorge"
+  },
+  {
+    "MunicipalityCode": 1058,
+    "ProvinceCode": 47,
+    "MunicipalityName": "Pagsanghan"
+  },
+  {
+    "MunicipalityCode": 1059,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Anahawan"
+  },
+  {
+    "MunicipalityCode": 1060,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Bontoc"
+  },
+  {
+    "MunicipalityCode": 1061,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Hinunangan"
+  },
+  {
+    "MunicipalityCode": 1062,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Hinundayan"
+  },
+  {
+    "MunicipalityCode": 1063,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Libagon"
+  },
+  {
+    "MunicipalityCode": 1064,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Liloan"
+  },
+  {
+    "MunicipalityCode": 1065,
+    "ProvinceCode": 48,
+    "MunicipalityName": "City of Maasin"
+  },
+  {
+    "MunicipalityCode": 1066,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Macrohon"
+  },
+  {
+    "MunicipalityCode": 1067,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Malitbog"
+  },
+  {
+    "MunicipalityCode": 1068,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Padre Burgos"
+  },
+  {
+    "MunicipalityCode": 1069,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Pintuyan"
+  },
+  {
+    "MunicipalityCode": 1070,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Saint Bernard"
+  },
+  {
+    "MunicipalityCode": 1071,
+    "ProvinceCode": 48,
+    "MunicipalityName": "San Francisco"
+  },
+  {
+    "MunicipalityCode": 1072,
+    "ProvinceCode": 48,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 1073,
+    "ProvinceCode": 48,
+    "MunicipalityName": "San Ricardo"
+  },
+  {
+    "MunicipalityCode": 1074,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Silago"
+  },
+  {
+    "MunicipalityCode": 1075,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Sogod"
+  },
+  {
+    "MunicipalityCode": 1076,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Tomas Oppus"
+  },
+  {
+    "MunicipalityCode": 1077,
+    "ProvinceCode": 48,
+    "MunicipalityName": "Limasawa"
+  },
+  {
+    "MunicipalityCode": 1078,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Almeria"
+  },
+  {
+    "MunicipalityCode": 1079,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Biliran"
+  },
+  {
+    "MunicipalityCode": 1080,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Cabucgayan"
+  },
+  {
+    "MunicipalityCode": 1081,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Caibiran"
+  },
+  {
+    "MunicipalityCode": 1082,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Culaba"
+  },
+  {
+    "MunicipalityCode": 1083,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Kawayan"
+  },
+  {
+    "MunicipalityCode": 1084,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Maripipi"
+  },
+  {
+    "MunicipalityCode": 1085,
+    "ProvinceCode": 49,
+    "MunicipalityName": "Naval"
+  },
+  {
+    "MunicipalityCode": 1086,
+    "ProvinceCode": 50,
+    "MunicipalityName": "City of Dapitan"
+  },
+  {
+    "MunicipalityCode": 1087,
+    "ProvinceCode": 50,
+    "MunicipalityName": "City of Dipolog"
+  },
+  {
+    "MunicipalityCode": 1088,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Katipunan"
+  },
+  {
+    "MunicipalityCode": 1089,
+    "ProvinceCode": 50,
+    "MunicipalityName": "La Libertad"
+  },
+  {
+    "MunicipalityCode": 1090,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Labason"
+  },
+  {
+    "MunicipalityCode": 1091,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Liloy"
+  },
+  {
+    "MunicipalityCode": 1092,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Manukan"
+  },
+  {
+    "MunicipalityCode": 1093,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Mutia"
+  },
+  {
+    "MunicipalityCode": 1094,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Piñan"
+  },
+  {
+    "MunicipalityCode": 1095,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Polanco"
+  },
+  {
+    "MunicipalityCode": 1096,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Pres. Manuel A. Roxas"
+  },
+  {
+    "MunicipalityCode": 1097,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 1098,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Salug"
+  },
+  {
+    "MunicipalityCode": 1099,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Sergio Osmeña Sr."
+  },
+  {
+    "MunicipalityCode": 1100,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Siayan"
+  },
+  {
+    "MunicipalityCode": 1101,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Sibuco"
+  },
+  {
+    "MunicipalityCode": 1102,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Sibutad"
+  },
+  {
+    "MunicipalityCode": 1103,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Sindangan"
+  },
+  {
+    "MunicipalityCode": 1104,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Siocon"
+  },
+  {
+    "MunicipalityCode": 1105,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Sirawai"
+  },
+  {
+    "MunicipalityCode": 1106,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Tampilisan"
+  },
+  {
+    "MunicipalityCode": 1107,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Jose Dalman"
+  },
+  {
+    "MunicipalityCode": 1108,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Gutalac"
+  },
+  {
+    "MunicipalityCode": 1109,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Baliguian"
+  },
+  {
+    "MunicipalityCode": 1110,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Godod"
+  },
+  {
+    "MunicipalityCode": 1111,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Bacungan"
+  },
+  {
+    "MunicipalityCode": 1112,
+    "ProvinceCode": 50,
+    "MunicipalityName": "Kalawit"
+  },
+  {
+    "MunicipalityCode": 1113,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Aurora"
+  },
+  {
+    "MunicipalityCode": 1114,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Bayog"
+  },
+  {
+    "MunicipalityCode": 1115,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Dimataling"
+  },
+  {
+    "MunicipalityCode": 1116,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Dinas"
+  },
+  {
+    "MunicipalityCode": 1117,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Dumalinao"
+  },
+  {
+    "MunicipalityCode": 1118,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Dumingag"
+  },
+  {
+    "MunicipalityCode": 1119,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Kumalarang"
+  },
+  {
+    "MunicipalityCode": 1120,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Labangan"
+  },
+  {
+    "MunicipalityCode": 1121,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Lapuyan"
+  },
+  {
+    "MunicipalityCode": 1122,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Mahayag"
+  },
+  {
+    "MunicipalityCode": 1123,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Margosatubig"
+  },
+  {
+    "MunicipalityCode": 1124,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Midsalip"
+  },
+  {
+    "MunicipalityCode": 1125,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Molave"
+  },
+  {
+    "MunicipalityCode": 1126,
+    "ProvinceCode": 51,
+    "MunicipalityName": "City of Pagadian"
+  },
+  {
+    "MunicipalityCode": 1127,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Ramon Magsaysay"
+  },
+  {
+    "MunicipalityCode": 1128,
+    "ProvinceCode": 51,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 1129,
+    "ProvinceCode": 51,
+    "MunicipalityName": "San Pablo"
+  },
+  {
+    "MunicipalityCode": 1130,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Tabina"
+  },
+  {
+    "MunicipalityCode": 1131,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Tambulig"
+  },
+  {
+    "MunicipalityCode": 1132,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Tukuran"
+  },
+  {
+    "MunicipalityCode": 1133,
+    "ProvinceCode": 51,
+    "MunicipalityName": "City of Zamboanga"
+  },
+  {
+    "MunicipalityCode": 1134,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Lakewood"
+  },
+  {
+    "MunicipalityCode": 1135,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Josefina"
+  },
+  {
+    "MunicipalityCode": 1136,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Pitogo"
+  },
+  {
+    "MunicipalityCode": 1137,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Sominot"
+  },
+  {
+    "MunicipalityCode": 1138,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Vincenzo A. Sagun"
+  },
+  {
+    "MunicipalityCode": 1139,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Guipos"
+  },
+  {
+    "MunicipalityCode": 1140,
+    "ProvinceCode": 51,
+    "MunicipalityName": "Tigbao"
+  },
+  {
+    "MunicipalityCode": 1141,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Alicia"
+  },
+  {
+    "MunicipalityCode": 1142,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Buug"
+  },
+  {
+    "MunicipalityCode": 1143,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Diplahan"
+  },
+  {
+    "MunicipalityCode": 1144,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Imelda"
+  },
+  {
+    "MunicipalityCode": 1145,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Ipil"
+  },
+  {
+    "MunicipalityCode": 1146,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Kabasalan"
+  },
+  {
+    "MunicipalityCode": 1147,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Mabuhay"
+  },
+  {
+    "MunicipalityCode": 1148,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Malangas"
+  },
+  {
+    "MunicipalityCode": 1149,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Naga"
+  },
+  {
+    "MunicipalityCode": 1150,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Olutanga"
+  },
+  {
+    "MunicipalityCode": 1151,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Payao"
+  },
+  {
+    "MunicipalityCode": 1152,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Roseller Lim"
+  },
+  {
+    "MunicipalityCode": 1153,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Siay"
+  },
+  {
+    "MunicipalityCode": 1154,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Talusan"
+  },
+  {
+    "MunicipalityCode": 1155,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Titay"
+  },
+  {
+    "MunicipalityCode": 1156,
+    "ProvinceCode": 52,
+    "MunicipalityName": "Tungawan"
+  },
+  {
+    "MunicipalityCode": 1157,
+    "ProvinceCode": 52,
+    "MunicipalityName": "City of Isabela"
+  },
+  {
+    "MunicipalityCode": 1158,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Baungon"
+  },
+  {
+    "MunicipalityCode": 1159,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Damulog"
+  },
+  {
+    "MunicipalityCode": 1160,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Dangcagan"
+  },
+  {
+    "MunicipalityCode": 1161,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Don Carlos"
+  },
+  {
+    "MunicipalityCode": 1162,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Impasug-ong"
+  },
+  {
+    "MunicipalityCode": 1163,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Kadingilan"
+  },
+  {
+    "MunicipalityCode": 1164,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Kalilangan"
+  },
+  {
+    "MunicipalityCode": 1165,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Kibawe"
+  },
+  {
+    "MunicipalityCode": 1166,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Kitaotao"
+  },
+  {
+    "MunicipalityCode": 1167,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Lantapan"
+  },
+  {
+    "MunicipalityCode": 1168,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Libona"
+  },
+  {
+    "MunicipalityCode": 1169,
+    "ProvinceCode": 53,
+    "MunicipalityName": "City of Malaybalay"
+  },
+  {
+    "MunicipalityCode": 1170,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Malitbog"
+  },
+  {
+    "MunicipalityCode": 1171,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Manolo Fortich"
+  },
+  {
+    "MunicipalityCode": 1172,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Maramag"
+  },
+  {
+    "MunicipalityCode": 1173,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Pangantucan"
+  },
+  {
+    "MunicipalityCode": 1174,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Quezon"
+  },
+  {
+    "MunicipalityCode": 1175,
+    "ProvinceCode": 53,
+    "MunicipalityName": "San Fernando"
+  },
+  {
+    "MunicipalityCode": 1176,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Sumilao"
+  },
+  {
+    "MunicipalityCode": 1177,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Talakag"
+  },
+  {
+    "MunicipalityCode": 1178,
+    "ProvinceCode": 53,
+    "MunicipalityName": "City of Valencia"
+  },
+  {
+    "MunicipalityCode": 1179,
+    "ProvinceCode": 53,
+    "MunicipalityName": "Cabanglasan"
+  },
+  {
+    "MunicipalityCode": 1180,
+    "ProvinceCode": 54,
+    "MunicipalityName": "Catarman"
+  },
+  {
+    "MunicipalityCode": 1181,
+    "ProvinceCode": 54,
+    "MunicipalityName": "Guinsiliban"
+  },
+  {
+    "MunicipalityCode": 1182,
+    "ProvinceCode": 54,
+    "MunicipalityName": "Mahinog"
+  },
+  {
+    "MunicipalityCode": 1183,
+    "ProvinceCode": 54,
+    "MunicipalityName": "Mambajao"
+  },
+  {
+    "MunicipalityCode": 1184,
+    "ProvinceCode": 54,
+    "MunicipalityName": "Sagay"
+  },
+  {
+    "MunicipalityCode": 1185,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Bacolod"
+  },
+  {
+    "MunicipalityCode": 1186,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Baloi"
+  },
+  {
+    "MunicipalityCode": 1187,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Baroy"
+  },
+  {
+    "MunicipalityCode": 1188,
+    "ProvinceCode": 55,
+    "MunicipalityName": "City of Iligan"
+  },
+  {
+    "MunicipalityCode": 1189,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Kapatagan"
+  },
+  {
+    "MunicipalityCode": 1190,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Sultan Naga Dimaporo"
+  },
+  {
+    "MunicipalityCode": 1191,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Kauswagan"
+  },
+  {
+    "MunicipalityCode": 1192,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Kolambugan"
+  },
+  {
+    "MunicipalityCode": 1193,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Lala"
+  },
+  {
+    "MunicipalityCode": 1194,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Linamon"
+  },
+  {
+    "MunicipalityCode": 1195,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Magsaysay"
+  },
+  {
+    "MunicipalityCode": 1196,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Maigo"
+  },
+  {
+    "MunicipalityCode": 1197,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Matungao"
+  },
+  {
+    "MunicipalityCode": 1198,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Munai"
+  },
+  {
+    "MunicipalityCode": 1199,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Nunungan"
+  },
+  {
+    "MunicipalityCode": 1200,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Pantao Ragat"
+  },
+  {
+    "MunicipalityCode": 1201,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Poona Piagapo"
+  },
+  {
+    "MunicipalityCode": 1202,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Salvador"
+  },
+  {
+    "MunicipalityCode": 1203,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Sapad"
+  },
+  {
+    "MunicipalityCode": 1204,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Tagoloan"
+  },
+  {
+    "MunicipalityCode": 1205,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Tangcal"
+  },
+  {
+    "MunicipalityCode": 1206,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Tubod"
+  },
+  {
+    "MunicipalityCode": 1207,
+    "ProvinceCode": 55,
+    "MunicipalityName": "Pantar"
+  },
+  {
+    "MunicipalityCode": 1208,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Aloran"
+  },
+  {
+    "MunicipalityCode": 1209,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Baliangao"
+  },
+  {
+    "MunicipalityCode": 1210,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Bonifacio"
+  },
+  {
+    "MunicipalityCode": 1211,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Calamba"
+  },
+  {
+    "MunicipalityCode": 1212,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Clarin"
+  },
+  {
+    "MunicipalityCode": 1213,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Concepcion"
+  },
+  {
+    "MunicipalityCode": 1214,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Jimenez"
+  },
+  {
+    "MunicipalityCode": 1215,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Lopez Jaena"
+  },
+  {
+    "MunicipalityCode": 1216,
+    "ProvinceCode": 56,
+    "MunicipalityName": "City of Oroquieta"
+  },
+  {
+    "MunicipalityCode": 1217,
+    "ProvinceCode": 56,
+    "MunicipalityName": "City of Ozamiz"
+  },
+  {
+    "MunicipalityCode": 1218,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Panaon"
+  },
+  {
+    "MunicipalityCode": 1219,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Plaridel"
+  },
+  {
+    "MunicipalityCode": 1220,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Sapang Dalaga"
+  },
+  {
+    "MunicipalityCode": 1221,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Sinacaban"
+  },
+  {
+    "MunicipalityCode": 1222,
+    "ProvinceCode": 56,
+    "MunicipalityName": "City of Tangub"
+  },
+  {
+    "MunicipalityCode": 1223,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Tudela"
+  },
+  {
+    "MunicipalityCode": 1224,
+    "ProvinceCode": 56,
+    "MunicipalityName": "Don Victoriano Chiongbian"
+  },
+  {
+    "MunicipalityCode": 1225,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Alubijid"
+  },
+  {
+    "MunicipalityCode": 1226,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Balingasag"
+  },
+  {
+    "MunicipalityCode": 1227,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Balingoan"
+  },
+  {
+    "MunicipalityCode": 1228,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Binuangan"
+  },
+  {
+    "MunicipalityCode": 1229,
+    "ProvinceCode": 57,
+    "MunicipalityName": "City of Cagayan De Oro"
+  },
+  {
+    "MunicipalityCode": 1230,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Claveria"
+  },
+  {
+    "MunicipalityCode": 1231,
+    "ProvinceCode": 57,
+    "MunicipalityName": "City of El Salvador"
+  },
+  {
+    "MunicipalityCode": 1232,
+    "ProvinceCode": 57,
+    "MunicipalityName": "City of Gingoog"
+  },
+  {
+    "MunicipalityCode": 1233,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Gitagum"
+  },
+  {
+    "MunicipalityCode": 1234,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Initao"
+  },
+  {
+    "MunicipalityCode": 1235,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Jasaan"
+  },
+  {
+    "MunicipalityCode": 1236,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Kinoguitan"
+  },
+  {
+    "MunicipalityCode": 1237,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Lagonglong"
+  },
+  {
+    "MunicipalityCode": 1238,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Laguindingan"
+  },
+  {
+    "MunicipalityCode": 1239,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Libertad"
+  },
+  {
+    "MunicipalityCode": 1240,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Lugait"
+  },
+  {
+    "MunicipalityCode": 1241,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Magsaysay"
+  },
+  {
+    "MunicipalityCode": 1242,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Manticao"
+  },
+  {
+    "MunicipalityCode": 1243,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Medina"
+  },
+  {
+    "MunicipalityCode": 1244,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Naawan"
+  },
+  {
+    "MunicipalityCode": 1245,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Opol"
+  },
+  {
+    "MunicipalityCode": 1246,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Salay"
+  },
+  {
+    "MunicipalityCode": 1247,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Sugbongcogon"
+  },
+  {
+    "MunicipalityCode": 1248,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Tagoloan"
+  },
+  {
+    "MunicipalityCode": 1249,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Talisayan"
+  },
+  {
+    "MunicipalityCode": 1250,
+    "ProvinceCode": 57,
+    "MunicipalityName": "Villanueva"
+  },
+  {
+    "MunicipalityCode": 1251,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Asuncion"
+  },
+  {
+    "MunicipalityCode": 1252,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 1253,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Kapalong"
+  },
+  {
+    "MunicipalityCode": 1254,
+    "ProvinceCode": 58,
+    "MunicipalityName": "New Corella"
+  },
+  {
+    "MunicipalityCode": 1255,
+    "ProvinceCode": 58,
+    "MunicipalityName": "City of Panabo"
+  },
+  {
+    "MunicipalityCode": 1256,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Island Garden City of Samal"
+  },
+  {
+    "MunicipalityCode": 1257,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Santo Tomas"
+  },
+  {
+    "MunicipalityCode": 1258,
+    "ProvinceCode": 58,
+    "MunicipalityName": "City of Tagum"
+  },
+  {
+    "MunicipalityCode": 1259,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Talaingod"
+  },
+  {
+    "MunicipalityCode": 1260,
+    "ProvinceCode": 58,
+    "MunicipalityName": "Braulio E. Dujali"
+  },
+  {
+    "MunicipalityCode": 1261,
+    "ProvinceCode": 58,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1262,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Bansalan"
+  },
+  {
+    "MunicipalityCode": 1263,
+    "ProvinceCode": 59,
+    "MunicipalityName": "City of Davao"
+  },
+  {
+    "MunicipalityCode": 1264,
+    "ProvinceCode": 59,
+    "MunicipalityName": "City of Digos"
+  },
+  {
+    "MunicipalityCode": 1265,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Hagonoy"
+  },
+  {
+    "MunicipalityCode": 1266,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Kiblawan"
+  },
+  {
+    "MunicipalityCode": 1267,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Magsaysay"
+  },
+  {
+    "MunicipalityCode": 1268,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Malalag"
+  },
+  {
+    "MunicipalityCode": 1269,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Matanao"
+  },
+  {
+    "MunicipalityCode": 1270,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Padada"
+  },
+  {
+    "MunicipalityCode": 1271,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Santa Cruz"
+  },
+  {
+    "MunicipalityCode": 1272,
+    "ProvinceCode": 59,
+    "MunicipalityName": "Sulop"
+  },
+  {
+    "MunicipalityCode": 1273,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Baganga"
+  },
+  {
+    "MunicipalityCode": 1274,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Banaybanay"
+  },
+  {
+    "MunicipalityCode": 1275,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Boston"
+  },
+  {
+    "MunicipalityCode": 1276,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Caraga"
+  },
+  {
+    "MunicipalityCode": 1277,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Cateel"
+  },
+  {
+    "MunicipalityCode": 1278,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Governor Generoso"
+  },
+  {
+    "MunicipalityCode": 1279,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Lupon"
+  },
+  {
+    "MunicipalityCode": 1280,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Manay"
+  },
+  {
+    "MunicipalityCode": 1281,
+    "ProvinceCode": 60,
+    "MunicipalityName": "City of Mati"
+  },
+  {
+    "MunicipalityCode": 1282,
+    "ProvinceCode": 60,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1283,
+    "ProvinceCode": 60,
+    "MunicipalityName": "Tarragona"
+  },
+  {
+    "MunicipalityCode": 1284,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Compostela"
+  },
+  {
+    "MunicipalityCode": 1285,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Laak"
+  },
+  {
+    "MunicipalityCode": 1286,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Mabini"
+  },
+  {
+    "MunicipalityCode": 1287,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Maco"
+  },
+  {
+    "MunicipalityCode": 1288,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Maragusan"
+  },
+  {
+    "MunicipalityCode": 1289,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Mawab"
+  },
+  {
+    "MunicipalityCode": 1290,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Monkayo"
+  },
+  {
+    "MunicipalityCode": 1291,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Montevista"
+  },
+  {
+    "MunicipalityCode": 1292,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Nabunturan"
+  },
+  {
+    "MunicipalityCode": 1293,
+    "ProvinceCode": 61,
+    "MunicipalityName": "New Bataan"
+  },
+  {
+    "MunicipalityCode": 1294,
+    "ProvinceCode": 61,
+    "MunicipalityName": "Pantukan"
+  },
+  {
+    "MunicipalityCode": 1295,
+    "ProvinceCode": 62,
+    "MunicipalityName": "Don Marcelino"
+  },
+  {
+    "MunicipalityCode": 1296,
+    "ProvinceCode": 62,
+    "MunicipalityName": "Jose Abad Santos"
+  },
+  {
+    "MunicipalityCode": 1297,
+    "ProvinceCode": 62,
+    "MunicipalityName": "Malita"
+  },
+  {
+    "MunicipalityCode": 1298,
+    "ProvinceCode": 62,
+    "MunicipalityName": "Santa Maria"
+  },
+  {
+    "MunicipalityCode": 1299,
+    "ProvinceCode": 62,
+    "MunicipalityName": "Sarangani"
+  },
+  {
+    "MunicipalityCode": 1300,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Alamada"
+  },
+  {
+    "MunicipalityCode": 1301,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 1302,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Kabacan"
+  },
+  {
+    "MunicipalityCode": 1303,
+    "ProvinceCode": 63,
+    "MunicipalityName": "City of Kidapawan"
+  },
+  {
+    "MunicipalityCode": 1304,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Libungan"
+  },
+  {
+    "MunicipalityCode": 1305,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Magpet"
+  },
+  {
+    "MunicipalityCode": 1306,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Makilala"
+  },
+  {
+    "MunicipalityCode": 1307,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Matalam"
+  },
+  {
+    "MunicipalityCode": 1308,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Midsayap"
+  },
+  {
+    "MunicipalityCode": 1309,
+    "ProvinceCode": 63,
+    "MunicipalityName": "M'Lang"
+  },
+  {
+    "MunicipalityCode": 1310,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Pigkawayan"
+  },
+  {
+    "MunicipalityCode": 1311,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Pikit"
+  },
+  {
+    "MunicipalityCode": 1312,
+    "ProvinceCode": 63,
+    "MunicipalityName": "President Roxas"
+  },
+  {
+    "MunicipalityCode": 1313,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Tulunan"
+  },
+  {
+    "MunicipalityCode": 1314,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Antipas"
+  },
+  {
+    "MunicipalityCode": 1315,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Banisilan"
+  },
+  {
+    "MunicipalityCode": 1316,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Aleosan"
+  },
+  {
+    "MunicipalityCode": 1317,
+    "ProvinceCode": 63,
+    "MunicipalityName": "Arakan"
+  },
+  {
+    "MunicipalityCode": 1318,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Banga"
+  },
+  {
+    "MunicipalityCode": 1319,
+    "ProvinceCode": 64,
+    "MunicipalityName": "City of General Santos"
+  },
+  {
+    "MunicipalityCode": 1320,
+    "ProvinceCode": 64,
+    "MunicipalityName": "City of Koronadal"
+  },
+  {
+    "MunicipalityCode": 1321,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Norala"
+  },
+  {
+    "MunicipalityCode": 1322,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Polomolok"
+  },
+  {
+    "MunicipalityCode": 1323,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Surallah"
+  },
+  {
+    "MunicipalityCode": 1324,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Tampakan"
+  },
+  {
+    "MunicipalityCode": 1325,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Tantangan"
+  },
+  {
+    "MunicipalityCode": 1326,
+    "ProvinceCode": 64,
+    "MunicipalityName": "T'Boli"
+  },
+  {
+    "MunicipalityCode": 1327,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Tupi"
+  },
+  {
+    "MunicipalityCode": 1328,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Santo Niño"
+  },
+  {
+    "MunicipalityCode": 1329,
+    "ProvinceCode": 64,
+    "MunicipalityName": "Lake Sebu"
+  },
+  {
+    "MunicipalityCode": 1330,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Bagumbayan"
+  },
+  {
+    "MunicipalityCode": 1331,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Columbio"
+  },
+  {
+    "MunicipalityCode": 1332,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Esperanza"
+  },
+  {
+    "MunicipalityCode": 1333,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Isulan"
+  },
+  {
+    "MunicipalityCode": 1334,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Kalamansig"
+  },
+  {
+    "MunicipalityCode": 1335,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Lebak"
+  },
+  {
+    "MunicipalityCode": 1336,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Lutayan"
+  },
+  {
+    "MunicipalityCode": 1337,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Lambayong"
+  },
+  {
+    "MunicipalityCode": 1338,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Palimbang"
+  },
+  {
+    "MunicipalityCode": 1339,
+    "ProvinceCode": 65,
+    "MunicipalityName": "President Quirino"
+  },
+  {
+    "MunicipalityCode": 1340,
+    "ProvinceCode": 65,
+    "MunicipalityName": "City of Tacurong"
+  },
+  {
+    "MunicipalityCode": 1341,
+    "ProvinceCode": 65,
+    "MunicipalityName": "Sen. Ninoy Aquino"
+  },
+  {
+    "MunicipalityCode": 1342,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Alabel"
+  },
+  {
+    "MunicipalityCode": 1343,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Glan"
+  },
+  {
+    "MunicipalityCode": 1344,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Kiamba"
+  },
+  {
+    "MunicipalityCode": 1345,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Maasim"
+  },
+  {
+    "MunicipalityCode": 1346,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Maitum"
+  },
+  {
+    "MunicipalityCode": 1347,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Malapatan"
+  },
+  {
+    "MunicipalityCode": 1348,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Malungon"
+  },
+  {
+    "MunicipalityCode": 1349,
+    "ProvinceCode": 66,
+    "MunicipalityName": "Cotabato City"
+  },
+  {
+    "MunicipalityCode": 1350,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Manila"
+  },
+  {
+    "MunicipalityCode": 1351,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Mandaluyong City"
+  },
+  {
+    "MunicipalityCode": 1352,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Marikina City"
+  },
+  {
+    "MunicipalityCode": 1353,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Pasig City"
+  },
+  {
+    "MunicipalityCode": 1354,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Quezon City"
+  },
+  {
+    "MunicipalityCode": 1355,
+    "ProvinceCode": 1,
+    "MunicipalityName": "San Juan City"
+  },
+  {
+    "MunicipalityCode": 1356,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Caloocan City"
+  },
+  {
+    "MunicipalityCode": 1357,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Malabon City"
+  },
+  {
+    "MunicipalityCode": 1358,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Navotas City"
+  },
+  {
+    "MunicipalityCode": 1359,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Valenzuela City"
+  },
+  {
+    "MunicipalityCode": 1360,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Las Piñas City"
+  },
+  {
+    "MunicipalityCode": 1361,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Makati City"
+  },
+  {
+    "MunicipalityCode": 1362,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Muntinlupa City"
+  },
+  {
+    "MunicipalityCode": 1363,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Parañaque City"
+  },
+  {
+    "MunicipalityCode": 1364,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Pasay City"
+  },
+  {
+    "MunicipalityCode": 1365,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Pateros"
+  },
+  {
+    "MunicipalityCode": 1366,
+    "ProvinceCode": 1,
+    "MunicipalityName": "Taguig City"
+  },
+  {
+    "MunicipalityCode": 1367,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Bangued"
+  },
+  {
+    "MunicipalityCode": 1368,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Boliney"
+  },
+  {
+    "MunicipalityCode": 1369,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Bucay"
+  },
+  {
+    "MunicipalityCode": 1370,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Bucloc"
+  },
+  {
+    "MunicipalityCode": 1371,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Daguioman"
+  },
+  {
+    "MunicipalityCode": 1372,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Danglas"
+  },
+  {
+    "MunicipalityCode": 1373,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Dolores"
+  },
+  {
+    "MunicipalityCode": 1374,
+    "ProvinceCode": 67,
+    "MunicipalityName": "La Paz"
+  },
+  {
+    "MunicipalityCode": 1375,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Lacub"
+  },
+  {
+    "MunicipalityCode": 1376,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Lagangilang"
+  },
+  {
+    "MunicipalityCode": 1377,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Lagayan"
+  },
+  {
+    "MunicipalityCode": 1378,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Langiden"
+  },
+  {
+    "MunicipalityCode": 1379,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Licuan-Baay"
+  },
+  {
+    "MunicipalityCode": 1380,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Luba"
+  },
+  {
+    "MunicipalityCode": 1381,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Malibcong"
+  },
+  {
+    "MunicipalityCode": 1382,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Manabo"
+  },
+  {
+    "MunicipalityCode": 1383,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Peñarrubia"
+  },
+  {
+    "MunicipalityCode": 1384,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Pidigan"
+  },
+  {
+    "MunicipalityCode": 1385,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 1386,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Sallapadan"
+  },
+  {
+    "MunicipalityCode": 1387,
+    "ProvinceCode": 67,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1388,
+    "ProvinceCode": 67,
+    "MunicipalityName": "San Juan"
+  },
+  {
+    "MunicipalityCode": 1389,
+    "ProvinceCode": 67,
+    "MunicipalityName": "San Quintin"
+  },
+  {
+    "MunicipalityCode": 1390,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Tayum"
+  },
+  {
+    "MunicipalityCode": 1391,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Tineg"
+  },
+  {
+    "MunicipalityCode": 1392,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Tubo"
+  },
+  {
+    "MunicipalityCode": 1393,
+    "ProvinceCode": 67,
+    "MunicipalityName": "Villaviciosa"
+  },
+  {
+    "MunicipalityCode": 1394,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Atok"
+  },
+  {
+    "MunicipalityCode": 1395,
+    "ProvinceCode": 68,
+    "MunicipalityName": "City of Baguio"
+  },
+  {
+    "MunicipalityCode": 1396,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Bakun"
+  },
+  {
+    "MunicipalityCode": 1397,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Bokod"
+  },
+  {
+    "MunicipalityCode": 1398,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Buguias"
+  },
+  {
+    "MunicipalityCode": 1399,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Itogon"
+  },
+  {
+    "MunicipalityCode": 1400,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Kabayan"
+  },
+  {
+    "MunicipalityCode": 1401,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Kapangan"
+  },
+  {
+    "MunicipalityCode": 1402,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Kibungan"
+  },
+  {
+    "MunicipalityCode": 1403,
+    "ProvinceCode": 68,
+    "MunicipalityName": "La Trinidad"
+  },
+  {
+    "MunicipalityCode": 1404,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Mankayan"
+  },
+  {
+    "MunicipalityCode": 1405,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Sablan"
+  },
+  {
+    "MunicipalityCode": 1406,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Tuba"
+  },
+  {
+    "MunicipalityCode": 1407,
+    "ProvinceCode": 68,
+    "MunicipalityName": "Tublay"
+  },
+  {
+    "MunicipalityCode": 1408,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Banaue"
+  },
+  {
+    "MunicipalityCode": 1409,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Hungduan"
+  },
+  {
+    "MunicipalityCode": 1410,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Kiangan"
+  },
+  {
+    "MunicipalityCode": 1411,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Lagawe"
+  },
+  {
+    "MunicipalityCode": 1412,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Lamut"
+  },
+  {
+    "MunicipalityCode": 1413,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Mayoyao"
+  },
+  {
+    "MunicipalityCode": 1414,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Alfonso Lista"
+  },
+  {
+    "MunicipalityCode": 1415,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Aguinaldo"
+  },
+  {
+    "MunicipalityCode": 1416,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Hingyon"
+  },
+  {
+    "MunicipalityCode": 1417,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Tinoc"
+  },
+  {
+    "MunicipalityCode": 1418,
+    "ProvinceCode": 69,
+    "MunicipalityName": "Asipulo"
+  },
+  {
+    "MunicipalityCode": 1419,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Balbalan"
+  },
+  {
+    "MunicipalityCode": 1420,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Lubuagan"
+  },
+  {
+    "MunicipalityCode": 1421,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Pasil"
+  },
+  {
+    "MunicipalityCode": 1422,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Pinukpuk"
+  },
+  {
+    "MunicipalityCode": 1423,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Rizal"
+  },
+  {
+    "MunicipalityCode": 1424,
+    "ProvinceCode": 70,
+    "MunicipalityName": "City of Tabuk"
+  },
+  {
+    "MunicipalityCode": 1425,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Tanudan"
+  },
+  {
+    "MunicipalityCode": 1426,
+    "ProvinceCode": 70,
+    "MunicipalityName": "Tinglayan"
+  },
+  {
+    "MunicipalityCode": 1427,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Barlig"
+  },
+  {
+    "MunicipalityCode": 1428,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Bauko"
+  },
+  {
+    "MunicipalityCode": 1429,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Besao"
+  },
+  {
+    "MunicipalityCode": 1430,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Bontoc"
+  },
+  {
+    "MunicipalityCode": 1431,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Natonin"
+  },
+  {
+    "MunicipalityCode": 1432,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Paracelis"
+  },
+  {
+    "MunicipalityCode": 1433,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Sabangan"
+  },
+  {
+    "MunicipalityCode": 1434,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Sadanga"
+  },
+  {
+    "MunicipalityCode": 1435,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Sagada"
+  },
+  {
+    "MunicipalityCode": 1436,
+    "ProvinceCode": 71,
+    "MunicipalityName": "Tadian"
+  },
+  {
+    "MunicipalityCode": 1437,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Calanasan"
+  },
+  {
+    "MunicipalityCode": 1438,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Conner"
+  },
+  {
+    "MunicipalityCode": 1439,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Flora"
+  },
+  {
+    "MunicipalityCode": 1440,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Kabugao"
+  },
+  {
+    "MunicipalityCode": 1441,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Luna"
+  },
+  {
+    "MunicipalityCode": 1442,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Pudtol"
+  },
+  {
+    "MunicipalityCode": 1443,
+    "ProvinceCode": 72,
+    "MunicipalityName": "Santa Marcela"
+  },
+  {
+    "MunicipalityCode": 1444,
+    "ProvinceCode": 73,
+    "MunicipalityName": "City of Lamitan"
+  },
+  {
+    "MunicipalityCode": 1445,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Lantawan"
+  },
+  {
+    "MunicipalityCode": 1446,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Maluso"
+  },
+  {
+    "MunicipalityCode": 1447,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Sumisip"
+  },
+  {
+    "MunicipalityCode": 1448,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Tipo-Tipo"
+  },
+  {
+    "MunicipalityCode": 1449,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Tuburan"
+  },
+  {
+    "MunicipalityCode": 1450,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Akbar"
+  },
+  {
+    "MunicipalityCode": 1451,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Al-Barka"
+  },
+  {
+    "MunicipalityCode": 1452,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Hadji Mohammad Ajul"
+  },
+  {
+    "MunicipalityCode": 1453,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Ungkaya Pukan"
+  },
+  {
+    "MunicipalityCode": 1454,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Hadji Muhtamad"
+  },
+  {
+    "MunicipalityCode": 1455,
+    "ProvinceCode": 73,
+    "MunicipalityName": "Tabuan-Lasa"
+  },
+  {
+    "MunicipalityCode": 1456,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Bacolod-Kalawi"
+  },
+  {
+    "MunicipalityCode": 1457,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Balabagan"
+  },
+  {
+    "MunicipalityCode": 1458,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Balindong"
+  },
+  {
+    "MunicipalityCode": 1459,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Bayang"
+  },
+  {
+    "MunicipalityCode": 1460,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Binidayan"
+  },
+  {
+    "MunicipalityCode": 1461,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Bubong"
+  },
+  {
+    "MunicipalityCode": 1462,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Butig"
+  },
+  {
+    "MunicipalityCode": 1463,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Ganassi"
+  },
+  {
+    "MunicipalityCode": 1464,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Kapai"
+  },
+  {
+    "MunicipalityCode": 1465,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Lumba-Bayabao"
+  },
+  {
+    "MunicipalityCode": 1466,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Lumbatan"
+  },
+  {
+    "MunicipalityCode": 1467,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Madalum"
+  },
+  {
+    "MunicipalityCode": 1468,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Madamba"
+  },
+  {
+    "MunicipalityCode": 1469,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Malabang"
+  },
+  {
+    "MunicipalityCode": 1470,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Marantao"
+  },
+  {
+    "MunicipalityCode": 1471,
+    "ProvinceCode": 74,
+    "MunicipalityName": "City of Marawi"
+  },
+  {
+    "MunicipalityCode": 1472,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Masiu"
+  },
+  {
+    "MunicipalityCode": 1473,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Mulondo"
+  },
+  {
+    "MunicipalityCode": 1474,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Pagayawan"
+  },
+  {
+    "MunicipalityCode": 1475,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Piagapo"
+  },
+  {
+    "MunicipalityCode": 1476,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Poona Bayabao"
+  },
+  {
+    "MunicipalityCode": 1477,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Pualas"
+  },
+  {
+    "MunicipalityCode": 1478,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Ditsaan-Ramain"
+  },
+  {
+    "MunicipalityCode": 1479,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Saguiaran"
+  },
+  {
+    "MunicipalityCode": 1480,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Tamparan"
+  },
+  {
+    "MunicipalityCode": 1481,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Taraka"
+  },
+  {
+    "MunicipalityCode": 1482,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Tubaran"
+  },
+  {
+    "MunicipalityCode": 1483,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Tugaya"
+  },
+  {
+    "MunicipalityCode": 1484,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Wao"
+  },
+  {
+    "MunicipalityCode": 1485,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Marogong"
+  },
+  {
+    "MunicipalityCode": 1486,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Calanogas"
+  },
+  {
+    "MunicipalityCode": 1487,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Buadiposo-Buntong"
+  },
+  {
+    "MunicipalityCode": 1488,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Maguing"
+  },
+  {
+    "MunicipalityCode": 1489,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Picong"
+  },
+  {
+    "MunicipalityCode": 1490,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Lumbayanague"
+  },
+  {
+    "MunicipalityCode": 1491,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Amai Manabilang"
+  },
+  {
+    "MunicipalityCode": 1492,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Tagoloan Ii"
+  },
+  {
+    "MunicipalityCode": 1493,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Kapatagan"
+  },
+  {
+    "MunicipalityCode": 1494,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Sultan Dumalondong"
+  },
+  {
+    "MunicipalityCode": 1495,
+    "ProvinceCode": 74,
+    "MunicipalityName": "Lumbaca-Unayan"
+  },
+  {
+    "MunicipalityCode": 1496,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Ampatuan"
+  },
+  {
+    "MunicipalityCode": 1497,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Buldon"
+  },
+  {
+    "MunicipalityCode": 1498,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Buluan"
+  },
+  {
+    "MunicipalityCode": 1499,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Paglas"
+  },
+  {
+    "MunicipalityCode": 1500,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Piang"
+  },
+  {
+    "MunicipalityCode": 1501,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Odin Sinsuat"
+  },
+  {
+    "MunicipalityCode": 1502,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Shariff Aguak"
+  },
+  {
+    "MunicipalityCode": 1503,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Matanog"
+  },
+  {
+    "MunicipalityCode": 1504,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Pagalungan"
+  },
+  {
+    "MunicipalityCode": 1505,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Parang"
+  },
+  {
+    "MunicipalityCode": 1506,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Sultan Kudarat"
+  },
+  {
+    "MunicipalityCode": 1507,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Sultan Sa Barongis"
+  },
+  {
+    "MunicipalityCode": 1508,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Kabuntalan"
+  },
+  {
+    "MunicipalityCode": 1509,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Upi"
+  },
+  {
+    "MunicipalityCode": 1510,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Talayan"
+  },
+  {
+    "MunicipalityCode": 1511,
+    "ProvinceCode": 75,
+    "MunicipalityName": "South Upi"
+  },
+  {
+    "MunicipalityCode": 1512,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Barira"
+  },
+  {
+    "MunicipalityCode": 1513,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Gen. S.K. Pendatun"
+  },
+  {
+    "MunicipalityCode": 1514,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Mamasapano"
+  },
+  {
+    "MunicipalityCode": 1515,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Talitay"
+  },
+  {
+    "MunicipalityCode": 1516,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Pagagawan"
+  },
+  {
+    "MunicipalityCode": 1517,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Paglat"
+  },
+  {
+    "MunicipalityCode": 1518,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Sultan Mastura"
+  },
+  {
+    "MunicipalityCode": 1519,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Guindulungan"
+  },
+  {
+    "MunicipalityCode": 1520,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Saudi-Ampatuan"
+  },
+  {
+    "MunicipalityCode": 1521,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Unsay"
+  },
+  {
+    "MunicipalityCode": 1522,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Abdullah Sangki"
+  },
+  {
+    "MunicipalityCode": 1523,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Rajah Buayan"
+  },
+  {
+    "MunicipalityCode": 1524,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Blah T. Sinsuat"
+  },
+  {
+    "MunicipalityCode": 1525,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Anggal Midtimbang"
+  },
+  {
+    "MunicipalityCode": 1526,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Mangudadatu"
+  },
+  {
+    "MunicipalityCode": 1527,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Pandag"
+  },
+  {
+    "MunicipalityCode": 1528,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Northern Kabuntalan"
+  },
+  {
+    "MunicipalityCode": 1529,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Hoffer Ampatuan"
+  },
+  {
+    "MunicipalityCode": 1530,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Datu Salibo"
+  },
+  {
+    "MunicipalityCode": 1531,
+    "ProvinceCode": 75,
+    "MunicipalityName": "Shariff Saydona Mustapha"
+  },
+  {
+    "MunicipalityCode": 1532,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Indanan"
+  },
+  {
+    "MunicipalityCode": 1533,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Jolo"
+  },
+  {
+    "MunicipalityCode": 1534,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Kalingalan Caluang"
+  },
+  {
+    "MunicipalityCode": 1535,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Luuk"
+  },
+  {
+    "MunicipalityCode": 1536,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Maimbung"
+  },
+  {
+    "MunicipalityCode": 1537,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Hadji Panglima Tahil"
+  },
+  {
+    "MunicipalityCode": 1538,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Old Panamao"
+  },
+  {
+    "MunicipalityCode": 1539,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Pangutaran"
+  },
+  {
+    "MunicipalityCode": 1540,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Parang"
+  },
+  {
+    "MunicipalityCode": 1541,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Pata"
+  },
+  {
+    "MunicipalityCode": 1542,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Patikul"
+  },
+  {
+    "MunicipalityCode": 1543,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Siasi"
+  },
+  {
+    "MunicipalityCode": 1544,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Talipao"
+  },
+  {
+    "MunicipalityCode": 1545,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Tapul"
+  },
+  {
+    "MunicipalityCode": 1546,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Tongkil"
+  },
+  {
+    "MunicipalityCode": 1547,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Panglima Estino"
+  },
+  {
+    "MunicipalityCode": 1548,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Lugus"
+  },
+  {
+    "MunicipalityCode": 1549,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Pandami"
+  },
+  {
+    "MunicipalityCode": 1550,
+    "ProvinceCode": 76,
+    "MunicipalityName": "Omar"
+  },
+  {
+    "MunicipalityCode": 1551,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Panglima Sugala"
+  },
+  {
+    "MunicipalityCode": 1552,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Bongao (Capital)"
+  },
+  {
+    "MunicipalityCode": 1553,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Mapun"
+  },
+  {
+    "MunicipalityCode": 1554,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Simunul"
+  },
+  {
+    "MunicipalityCode": 1555,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Sitangkai"
+  },
+  {
+    "MunicipalityCode": 1556,
+    "ProvinceCode": 77,
+    "MunicipalityName": "South Ubian"
+  },
+  {
+    "MunicipalityCode": 1557,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Tandubas"
+  },
+  {
+    "MunicipalityCode": 1558,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Turtle Islands"
+  },
+  {
+    "MunicipalityCode": 1559,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Languyan"
+  },
+  {
+    "MunicipalityCode": 1560,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Sapa-Sapa"
+  },
+  {
+    "MunicipalityCode": 1561,
+    "ProvinceCode": 77,
+    "MunicipalityName": "Sibutu"
+  },
+  {
+    "MunicipalityCode": 1562,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Buenavista"
+  },
+  {
+    "MunicipalityCode": 1563,
+    "ProvinceCode": 78,
+    "MunicipalityName": "City of Butuan"
+  },
+  {
+    "MunicipalityCode": 1564,
+    "ProvinceCode": 78,
+    "MunicipalityName": "City of Cabadbaran"
+  },
+  {
+    "MunicipalityCode": 1565,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 1566,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Jabonga"
+  },
+  {
+    "MunicipalityCode": 1567,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Kitcharao"
+  },
+  {
+    "MunicipalityCode": 1568,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Las Nieves"
+  },
+  {
+    "MunicipalityCode": 1569,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Magallanes"
+  },
+  {
+    "MunicipalityCode": 1570,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Nasipit"
+  },
+  {
+    "MunicipalityCode": 1571,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Santiago"
+  },
+  {
+    "MunicipalityCode": 1572,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Tubay"
+  },
+  {
+    "MunicipalityCode": 1573,
+    "ProvinceCode": 78,
+    "MunicipalityName": "Remedios T. Romualdez"
+  },
+  {
+    "MunicipalityCode": 1574,
+    "ProvinceCode": 79,
+    "MunicipalityName": "City of Bayugan"
+  },
+  {
+    "MunicipalityCode": 1575,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Bunawan"
+  },
+  {
+    "MunicipalityCode": 1576,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Esperanza"
+  },
+  {
+    "MunicipalityCode": 1577,
+    "ProvinceCode": 79,
+    "MunicipalityName": "La Paz"
+  },
+  {
+    "MunicipalityCode": 1578,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Loreto"
+  },
+  {
+    "MunicipalityCode": 1579,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Prosperidad"
+  },
+  {
+    "MunicipalityCode": 1580,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Rosario"
+  },
+  {
+    "MunicipalityCode": 1581,
+    "ProvinceCode": 79,
+    "MunicipalityName": "San Francisco"
+  },
+  {
+    "MunicipalityCode": 1582,
+    "ProvinceCode": 79,
+    "MunicipalityName": "San Luis"
+  },
+  {
+    "MunicipalityCode": 1583,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Santa Josefa"
+  },
+  {
+    "MunicipalityCode": 1584,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Talacogon"
+  },
+  {
+    "MunicipalityCode": 1585,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Trento"
+  },
+  {
+    "MunicipalityCode": 1586,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Veruela"
+  },
+  {
+    "MunicipalityCode": 1587,
+    "ProvinceCode": 79,
+    "MunicipalityName": "Sibagat"
+  },
+  {
+    "MunicipalityCode": 1588,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Alegria"
+  },
+  {
+    "MunicipalityCode": 1589,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Bacuag"
+  },
+  {
+    "MunicipalityCode": 1590,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Burgos"
+  },
+  {
+    "MunicipalityCode": 1591,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Claver"
+  },
+  {
+    "MunicipalityCode": 1592,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Dapa"
+  },
+  {
+    "MunicipalityCode": 1593,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Del Carmen"
+  },
+  {
+    "MunicipalityCode": 1594,
+    "ProvinceCode": 80,
+    "MunicipalityName": "General Luna"
+  },
+  {
+    "MunicipalityCode": 1595,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Gigaquit"
+  },
+  {
+    "MunicipalityCode": 1596,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Mainit"
+  },
+  {
+    "MunicipalityCode": 1597,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Malimono"
+  },
+  {
+    "MunicipalityCode": 1598,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Pilar"
+  },
+  {
+    "MunicipalityCode": 1599,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Placer"
+  },
+  {
+    "MunicipalityCode": 1600,
+    "ProvinceCode": 80,
+    "MunicipalityName": "San Benito"
+  },
+  {
+    "MunicipalityCode": 1601,
+    "ProvinceCode": 80,
+    "MunicipalityName": "San Francisco"
+  },
+  {
+    "MunicipalityCode": 1602,
+    "ProvinceCode": 80,
+    "MunicipalityName": "San Isidro"
+  },
+  {
+    "MunicipalityCode": 1603,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Santa Monica"
+  },
+  {
+    "MunicipalityCode": 1604,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Sison"
+  },
+  {
+    "MunicipalityCode": 1605,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Socorro"
+  },
+  {
+    "MunicipalityCode": 1606,
+    "ProvinceCode": 80,
+    "MunicipalityName": "City of Surigao"
+  },
+  {
+    "MunicipalityCode": 1607,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Tagana-An"
+  },
+  {
+    "MunicipalityCode": 1608,
+    "ProvinceCode": 80,
+    "MunicipalityName": "Tubod"
+  },
+  {
+    "MunicipalityCode": 1609,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Barobo"
+  },
+  {
+    "MunicipalityCode": 1610,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Bayabas"
+  },
+  {
+    "MunicipalityCode": 1611,
+    "ProvinceCode": 81,
+    "MunicipalityName": "City of Bislig"
+  },
+  {
+    "MunicipalityCode": 1612,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Cagwait"
+  },
+  {
+    "MunicipalityCode": 1613,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Cantilan"
+  },
+  {
+    "MunicipalityCode": 1614,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Carmen"
+  },
+  {
+    "MunicipalityCode": 1615,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Carrascal"
+  },
+  {
+    "MunicipalityCode": 1616,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Cortes"
+  },
+  {
+    "MunicipalityCode": 1617,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Hinatuan"
+  },
+  {
+    "MunicipalityCode": 1618,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Lanuza"
+  },
+  {
+    "MunicipalityCode": 1619,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Lianga"
+  },
+  {
+    "MunicipalityCode": 1620,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Lingig"
+  },
+  {
+    "MunicipalityCode": 1621,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Madrid"
+  },
+  {
+    "MunicipalityCode": 1622,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Marihatag"
+  },
+  {
+    "MunicipalityCode": 1623,
+    "ProvinceCode": 81,
+    "MunicipalityName": "San Agustin"
+  },
+  {
+    "MunicipalityCode": 1624,
+    "ProvinceCode": 81,
+    "MunicipalityName": "San Miguel"
+  },
+  {
+    "MunicipalityCode": 1625,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Tagbina"
+  },
+  {
+    "MunicipalityCode": 1626,
+    "ProvinceCode": 81,
+    "MunicipalityName": "Tago"
+  },
+  {
+    "MunicipalityCode": 1627,
+    "ProvinceCode": 81,
+    "MunicipalityName": "City of Tandag"
+  },
+  {
+    "MunicipalityCode": 1628,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Basilisa"
+  },
+  {
+    "MunicipalityCode": 1629,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Cagdianao"
+  },
+  {
+    "MunicipalityCode": 1630,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Dinagat"
+  },
+  {
+    "MunicipalityCode": 1631,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Libjo"
+  },
+  {
+    "MunicipalityCode": 1632,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Loreto"
+  },
+  {
+    "MunicipalityCode": 1633,
+    "ProvinceCode": 82,
+    "MunicipalityName": "San Jose"
+  },
+  {
+    "MunicipalityCode": 1634,
+    "ProvinceCode": 82,
+    "MunicipalityName": "Tubajon"
+  }
+]

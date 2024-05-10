@@ -1,0 +1,104 @@
+[
+  {
+    "RegionCode": 1,
+    "RegionName": "NCR",
+    "CountryCode": 1,
+    "RegionDescription": "National Capital Region"
+  },
+  {
+    "RegionCode": 2,
+    "RegionName": "CAR",
+    "CountryCode": 1,
+    "RegionDescription": "Cordillera Administrative Region"
+  },
+  {
+    "RegionCode": 3,
+    "RegionName": "Region I",
+    "CountryCode": 1,
+    "RegionDescription": "Ilocos Region"
+  },
+  {
+    "RegionCode": 4,
+    "RegionName": "Region II",
+    "CountryCode": 1,
+    "RegionDescription": "Cagayan Valley"
+  },
+  {
+    "RegionCode": 5,
+    "RegionName": "Region III",
+    "CountryCode": 1,
+    "RegionDescription": "Central Luzon"
+  },
+  {
+    "RegionCode": 6,
+    "RegionName": "Region IV-A",
+    "CountryCode": 1,
+    "RegionDescription": "CALABARZON"
+  },
+  {
+    "RegionCode": 7,
+    "RegionName": "Region IV-B",
+    "CountryCode": 1,
+    "RegionDescription": "MIMAROPA"
+  },
+  {
+    "RegionCode": 8,
+    "RegionName": "Region V",
+    "CountryCode": 1,
+    "RegionDescription": "Bicol Region"
+  },
+  {
+    "RegionCode": 9,
+    "RegionName": "Region VI",
+    "CountryCode": 1,
+    "RegionDescription": "Western Visayas"
+  },
+  {
+    "RegionCode": 10,
+    "RegionName": "Region VII",
+    "CountryCode": 1,
+    "RegionDescription": "Central Visayas"
+  },
+  {
+    "RegionCode": 11,
+    "RegionName": "Region VIII",
+    "CountryCode": 1,
+    "RegionDescription": "Eastern Visayas"
+  },
+  {
+    "RegionCode": 12,
+    "RegionName": "Region IX",
+    "CountryCode": 1,
+    "RegionDescription": "Zamboanga Peninsula"
+  },
+  {
+    "RegionCode": 13,
+    "RegionName": "Region X",
+    "CountryCode": 1,
+    "RegionDescription": "Northern Mindanao"
+  },
+  {
+    "RegionCode": 14,
+    "RegionName": "Region XI",
+    "CountryCode": 1,
+    "RegionDescription": "Davao Region"
+  },
+  {
+    "RegionCode": 15,
+    "RegionName": "Region XII",
+    "CountryCode": 1,
+    "RegionDescription": "SOCCSKSARGEN"
+  },
+  {
+    "RegionCode": 16,
+    "RegionName": "Region XIII",
+    "CountryCode": 1,
+    "RegionDescription": "CARAGA"
+  },
+  {
+    "RegionCode": 17,
+    "RegionName": "ARMM",
+    "CountryCode": 1,
+    "RegionDescription": "Autonomous Region in Muslim Mindanao"
+  }
+]
