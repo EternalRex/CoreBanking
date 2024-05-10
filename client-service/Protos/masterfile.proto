@@ -1,0 +1,111 @@
+syntax = "proto3";
+
+package masterfile;
+
+option csharp_namespace = "ClientService";
+
+
+service MasterFileOperation{
+  rpc GetMasterFile(MasterFileRequest) returns (MasterFileResponse);
+  rpc GetAddressMasterFile(GetAddressRequest) returns (GetAddressResponse);
+  rpc AddNewMasterFileData(AddMasterFileRequest) returns (AddMasterFileResponse); 
+}
+
+/*The name of the master file being requested*/
+message MasterFileRequest{
+  MasterFilesEnum MasterFileName = 1;
+}
+
+/*An entire data of the master file being requested*/
+message MasterFileResponse{
+
+  message MasterFileData{
+    string Id = 1;
+    string Value = 2;
+  }
+  repeated MasterFileData MasterFileValues = 1;
+}
+
+/*Adding a master file data or collection of data*/
+message AddMasterFileRequest{
+   MasterFilesEnum MasterFileName = 1;
+   repeated string MasterFileValue = 2;
+}
+
+/*Adding master file data response*/
+message AddMasterFileResponse{  
+  string AddResponse = 1;
+}
+
+/*Address master file request*/
+message GetAddressRequest{
+  AddressMasterFileEnum AddressType = 1;
+}
+
+/*Address master file response*/
+message GetAddressResponse {
+
+  message Country{
+    string CountryId  = 1;
+    string CountryName = 2;
+  }
+
+  message Region{
+    string RegionId = 1;
+    string RegionName = 2;
+    string CountryName = 3;
+  }
+
+  message Province {
+    string ProvinceId = 1;
+    string ProvinceName = 2;
+    string RegionName = 3;
+    string CountryName = 4;
+  }
+
+  message CityMunicipality {
+    string CityMunicipalityId = 1;
+    string CityMunicipalityName = 2;
+    string ProvinceName = 3;
+    string RegionName = 4;
+    string CountryName = 5;
+  }
+
+  message Barangay {
+    string BarangayId = 1;
+    string BarangayName = 2;
+    string CityMunicipalityName = 3;
+    string ProvinceName = 4;
+    string RegionName = 5;
+    string CountryName = 6;
+  }
+
+  repeated Country CountryResponse = 1;
+  repeated Region RegionResponse = 2;
+  repeated Province ProvinceResponse = 3;
+  repeated CityMunicipality CityMunicipalityResponse = 4;
+  repeated Barangay BarangayResponse = 5;
+}
+
+
+enum AddressMasterFileEnum{
+  Country = 0;
+  Region = 1;
+  Province = 2;
+  CityMunicipality = 3;
+  Barangay = 5;
+}
+
+enum MasterFilesEnum{
+  PrimaryIdentificationTypes = 0;
+  EconomicActivity = 1;
+  BusinessSector = 2;
+  Occupation = 3;
+  MembershipStatus = 4;
+  EducationalAttainment = 5;
+  ClientSource = 6;
+  ClientReference = 7;
+  MembershipType = 8;
+  Religion = 9;
+  Nationailty = 10;
+}
